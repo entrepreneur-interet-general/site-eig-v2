@@ -1,3 +1,3 @@
 ---
-title: Test catégorie
+title: Test 2
 ---
