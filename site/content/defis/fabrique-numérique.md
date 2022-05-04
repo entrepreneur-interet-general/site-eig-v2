@@ -35,3 +35,9 @@ Les EIG qualifieront les besoins et développeront des solutions avec les usager
 #### L'impact 
 
 Grâce à cet accompagnement, des agents publics « intrapreneurs » seront en capacité de réaliser des projets innovants en expérimentant des solutions simples à fort impact. Les EIG contribueront alors à améliorer le service rendu aux usagers ainsi que le travail des agents de la DGFiP tout en impulsant un élan de transformation numérique au sein de la structure.
+
+## Webinaire
+
+Ce défi a été présenté lors du webinaire « Santé et justice » du lundi 18 mai. Les agents publics qui portent le défi en ont profité pour répondre à de nombreuses questions que se posaient les candidats. 
+
+{{< dailymotion x82e1ah >}}
