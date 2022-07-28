@@ -1517,7 +1517,7 @@ La problématique identifiée Les données du MININT sont toujours plus volumine
       <guid>/accessibilite/</guid>
       <description>Le programme EIG s’engage à rendre son site internet eig.data.gouv.fr, accessible conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005.
 A cette fin, il met en œuvre la stratégie et les actions suivantes : réalisation d&amp;rsquo;un audit de conformité en 2021
-Cette déclaration d’accessibilité s’applique à https://eig.etalab.gouv.fr/
+Cette déclaration d’accessibilité s’applique à https://eig.etalab.gouv.fr.
 État de conformité eig.data.gouv.fr n’est pas en conformité avec le référentiel général d’amélioration de l’accessibilité. Test de conformité L’audit de conformité est en attente de réalisation et des tests sont en cours.</description>
     </item>
     
@@ -4343,20 +4343,7 @@ Titulaire d’un DEA d’administration publique (1991) et d’une maîtrise en 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/plan-du-site/</guid>
-      <description>Accueil
-Programme
-Défis
-Participants
- Talents EIG
-Agents publics
- Equipe
- L&amp;rsquo;équipe du programme
-Ecosystème
- Participer
- Candidats
-Administrations
- Proposer un projet Cahier des charges   Contact
-Blog</description>
+      <description>  Accueil   Programme   Défis   Participants   Talents EIG   Agents publics     Équipe   Participer   Candidats   Administrations   Proposer un projet   Cahier des charges       Contact   Blog   </description>
     </item>
     
     <item>
