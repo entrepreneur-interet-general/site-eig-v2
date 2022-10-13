@@ -28,8 +28,6 @@ Quels sont les facteurs clés de succès de tout projet d’innovation, de moder
 
 Le programme EIG se place sous le signe de la pyramide.
 
-![Pyramide du Louvre ](img/louvre-credit_mathias_reding.jpg)
-
 Que représente-t-elle ? Il s’agit d’une représentation de la pyramide du Louvre, commandée par François Mitterrand et conçue par l’architecte Ieoh Ming Pei. 
 
 Dès lors, quel sens lui attribuer ? À l’origine, cette pyramide n'était pas une évidence, d’aucuns estimaient même qu’elle ne pouvait épouser les lignes classiques du palais qu’elle était censée magnifier ! Ces considérations paraissent aujourd’hui d’un autre temps, tant l’association entre le Louvre et sa pyramide semble évidente.
