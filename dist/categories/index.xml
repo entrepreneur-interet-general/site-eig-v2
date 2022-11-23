@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Entrepreneurs d&#39;intérêt général</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 12 Oct 2022 12:05:59 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 13:17:57 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collectif</title>
+      <link>/categories/collectif/</link>
+      <pubDate>Wed, 23 Nov 2022 13:17:57 +0000</pubDate>
+      
+      <guid>/categories/collectif/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Accompagnement</title>
       <link>/categories/accompagnement/</link>
@@ -31,15 +40,6 @@
       <pubDate>Fri, 02 Sep 2022 13:56:29 +0000</pubDate>
       
       <guid>/categories/temoignage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Collectif</title>
-      <link>/categories/collectif/</link>
-      <pubDate>Thu, 01 Sep 2022 11:18:38 +0000</pubDate>
-      
-      <guid>/categories/collectif/</guid>
       <description></description>
     </item>
     
