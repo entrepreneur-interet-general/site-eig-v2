@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/personnes/antoine-san-segundo/</loc>
+  </url><url>
     <loc>/personnes/corine-waroquiers/</loc>
   </url><url>
     <loc>/personnes/frederique-doman/</loc>
@@ -11,8 +13,6 @@
     <loc>/personnes/lucie-le-rolland/</loc>
   </url><url>
     <loc>/personnes/jakub-voznica/</loc>
-  </url><url>
-    <loc>/personnes/antoine-san-segundo/</loc>
   </url><url>
     <loc>/categories/</loc>
     <lastmod>2022-11-23T13:17:57+00:00</lastmod>
