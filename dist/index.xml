@@ -6,7 +6,18 @@
     <description>Recent content in Page d&#39;accueil on Entrepreneurs d&#39;intérêt général</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 23 Nov 2022 13:17:57 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Apr 2023 07:37:55 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Antoine San Segundo</title>
+      <link>/personnes/antoine-san-segundo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/personnes/antoine-san-segundo/</guid>
+      <description>Designer, je conçois des produits et de services numériques depuis 7 ans. Diplomé de l’école Estienne, j’ai d’abord travaillé avec plusieurs agences de communication et de design. J’accompagne les projets sur la définition des méthodologies de design, sur les sujets de recherche utilisateur ou de prototypage.
+J’envisage des méthodologies collaboratives du design, en accordant une importance toute particulière à l’éco-conception et l’accessibilité.
+J’ai aujourd’hui le plaisir d’accompagner les équipes à relever les défis EIG en tant que coach design au sein de la DINUM.</description>
+    </item>
+    
     <item>
       <title>Corine Waroquiers</title>
       <link>/personnes/corine-waroquiers/</link>
@@ -54,14 +65,13 @@ En tant que coach produit, il sʼattache à faciliter le dépassement de fonctio
     </item>
     
     <item>
-      <title>Antoine San Segundo</title>
-      <link>/personnes/antoine-san-segundo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Innover dans le service public : changer les pratiques, transformer la culture</title>
+      <link>/blog/innover-dans-le-service-public-changer-les-pratiques-transformer-la-culture/</link>
+      <pubDate>Wed, 19 Apr 2023 07:37:55 +0000</pubDate>
       
-      <guid>/personnes/antoine-san-segundo/</guid>
-      <description>Designer, je conçois des produits et de services numériques depuis 7 ans. Diplomé de l’école Estienne, j’ai d’abord travaillé avec plusieurs agences de communication et de design. J’accompagne les projets sur la définition des méthodologies de design, sur les sujets de recherche utilisateur ou de prototypage.
-J’envisage des méthodologies collaboratives du design, en accordant une importance toute particulière à l’éco-conception et l’accessibilité.
-J’ai aujourd’hui le plaisir d’accompagner les équipes à relever les défis EIG en tant que coach design au sein de la DINUM.</description>
+      <guid>/blog/innover-dans-le-service-public-changer-les-pratiques-transformer-la-culture/</guid>
+      <description>Pour les administrations publiques, comme pour toute organisation privée, la transformation numérique demeure un défi majeur. Les managers et manageuses de cette dernière sont amené(e)s à piloter le changement et à encourager l&amp;rsquo;innovation tout en navigant les cultures et pratiques qui sont propres au service public.
+Dans ce contexte, le programme Entrepreneur(e)s d&amp;rsquo;intérêt général a pour mission d&amp;rsquo;accompagner les professionnels du numérique dans la création de services pour les administrations. Les équipes sont constituées des talents du numérique, développeurs et développeuses, designers, expert(e)s de la donnée, ainsi que de managers publics – des porteurs et porteuses de projet – qui canalisent leur expertise métier et leur connaissance du contexte politique vers une création de valeur à travers des services innovants.</description>
     </item>
     
     <item>
@@ -4472,8 +4482,7 @@ Issu d’une formation à l’entrecroisement de la psychologie et du génie inf
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>En cliquant sur Envoyer, vous acceptez que le programme Entrepreneurs d&amp;rsquo;intérêt général conserve mes données personnelles transmises via ce formulaire. Ces données seront conservées uniquement dans le but de traiter ma demande, soit pour une durée 12 mois. Voir notre politique de confidentialité.
-Si vous souhaitez être tenu au courant des prochains appels à projet (pour proposer un défi) ou appels à candidature (pour devenir EIG), vous pouvez vous inscrire à notre liste de diffusion.</description>
+      <description>En cliquant sur Envoyer, vous acceptez que le programme Entrepreneurs d&amp;rsquo;intérêt général conserve mes données personnelles transmises via ce formulaire. Ces données seront conservées uniquement dans le but de traiter ma demande, soit pour une durée 12 mois. Voir notre politique de confidentialité.</description>
     </item>
     
     <item>
@@ -4519,17 +4528,16 @@ Il a publié de nombreux articles de recherche aux interfaces de l’informatiqu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/espace-presse/</guid>
-      <description>21 Septembre 2022
+      <description>23 Mars 2023
+Le numérique, un exemple à suivre pour l’embarquement des agents ? 
+11 Février 2023
+«Astérix», «Vaincre ou mourir» : ces films ont-ils bénéficié de notes et commentaires truqués sur Allociné ?
+21 Septembre 2022
 Corine Waroquiers : “Nous croyons beaucoup à l’assemblage des compétences”
 21 Septembre 2022
 L’état de santé des ponts suivi de près par la “blockchain”
 16 Août 2022
-Sobriété énergétique : l’exécutif vise l’État mais aussi les collectivités
-12 août 2022
-L&amp;rsquo;Etat retient 34 lauréats sur des missions IT d&amp;rsquo;intérêt général
-21 juillet 2022
-Quand la science des données éclaire la gestion RH à l’hôpital
-6 juillet 2022</description>
+Sobriété énergétique : l’exécutif vise l’État mais aussi les collectivités</description>
     </item>
     
     <item>
@@ -5638,16 +5646,6 @@ Conquérir et conserver la confiance de l’un et de l’autre est le point comm
       
       <guid>/personnes/victor-journe-1/</guid>
       <description>“Centralien de Nantes avec une spécialité en traitement du signal, j’ai découvert l’apprentissage machine en volontariat international chez Engie, autour des marchés de l’électricité. Mordu, j’ai approfondi le sujet avec une alternance à l’ENSAE en Data Science. Après plus d’un an chez Qopius, une startup à la pointe en analyse d’image, je suis très enthousiaste de réduire l’envoi des contraventions radar inappropriées, grâce au défi IA Flash ! Pendant mon temps libre, vous me trouverez j’espère, sur le grès de Fontainebleau ou sur un bateau !</description>
-    </item>
-    
-    <item>
-      <title>Victor Journé</title>
-      <link>/personnes/victor-journe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/personnes/victor-journe/</guid>
-      <description>Je suis entré dans l’administration en 2019 comme EIG, à la direction du numérique du Ministère de l&amp;rsquo;Intérieur. J&amp;rsquo;ai été embauché à la fin de mon contrat comme data-scientist. Au sein de la fabrique numérique, nous concevons des produits innovants pour les directions métiers (sécurité routière, sécurité civile, police, collectivités locales…). Je développe ceux qui touchent à l&amp;rsquo;intelligence artificielle en traitement d&amp;rsquo;image ou de texte.
-TwinCity, qui vise à explorer le potentiel des jumeaux numérique de ville, permettra notamment de construire des jeux de données synthétiques issus d&amp;rsquo;un moteur de jeu vidéo ouvert.</description>
     </item>
     
     <item>
