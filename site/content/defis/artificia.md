@@ -1,8 +1,9 @@
 ---
-title: ArtificIA
-description: Mettre l'intelligence artificielle au service de l'objectif « zéro artificialisation nette » des sols 
-who: Institut national de l’information géographique et forestière (IGN) 
-place: ""
+title: CosIA
+description: Mettre l'intelligence artificielle au service de l'objectif « zéro
+  artificialisation nette » des sols
+who: Institut national de l’information géographique et forestière (IGN)
+place: Anciennement ArtificIA
 themes:
   - Environnement
 promos:
