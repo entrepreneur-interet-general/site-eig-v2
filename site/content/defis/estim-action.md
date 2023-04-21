@@ -3,7 +3,7 @@ title: Estim'Action
 description: Aider les collectivités à réduire les nuisances routières, sources
   de pollution atmosphérique et sonore
 who: Cerema
-place: ""
+place: Test
 themes:
   - Santé-Environnement
 promos:
