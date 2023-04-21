@@ -58,8 +58,9 @@ profiles:
 
     Et au-delà, des personnes qui veulent : transmettre une culture numérique à l’administration, s’engager dans l’open data et l’open source, participer à la mutualisation et à la réutilisation des produits et des données.
   list:
-    - "Cédric Merouani "
-    - Line Rahal
+    - Clara Carneiro Alves
+    - Loup Theron
+    - Amélie Medem
   sub: Ils et elles sont devenus EIG
 conditions:
   title: Conditions
