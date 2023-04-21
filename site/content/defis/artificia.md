@@ -1,9 +1,9 @@
 ---
-title: CosIA
+title: ArtificIA
 description: Mettre l'intelligence artificielle au service de l'objectif « zéro
   artificialisation nette » des sols
 who: Institut national de l’information géographique et forestière (IGN)
-place: Anciennement ArtificIA
+place: ""
 themes:
   - Environnement
 promos:
