@@ -50,7 +50,7 @@ Voici un scénario qui n’est pas étranger au programme Entrepreneur(e)s d’i
 
 Obtenir pour le projet une gouvernance forte implique de montrer à sa hiérarchie ce qui est fait, et comment on le fait. « Faites des retours d’expérience car votre métier d'intrapreneur(e), d'entrepreneur(e) du numérique non informaticien(ne), est finalement très récent et surtout se répand sans que les formations existent vraiment ! », conseille Hélène Bégon, il est essentiel de faire reconnaître son expertise et de la partager avec pédagogie et modestie. L’espace de liberté nécessaire aux équipes du projet pour innover n’empêche pas d’associer personnellement la ou le sponsor, de l’informer des décisions prises par les expert(e)s, de lui montrer des preuves du terrain et de lui partager des hypothèses provisoires – quitte à les revisiter par la suite.
 
-> *« Accompagner nos directions métier pour sécuriser notre projet le plus possible »*
+> *« Accompagner nos directions métier pour sécuriser notre projet le plus possible » - Alexandra Grout*
 
 ## Pérenniser le projet en pérennisant les équipes
 
