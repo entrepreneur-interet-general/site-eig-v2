@@ -38,11 +38,11 @@ Pour que de nouveaux publics bénéficient de votre service, il ne suffit pas de
 
 On entend beaucoup parler de disruption, d'innovation de rupture. Mais innover, est-ce nécessairement diviser ? Pas forcément d’après nos expert(e)s invité(e)s, à condition de faire l’effort d’embarquer les équipes dans la culture numérique qui porte le projet. Pour éviter qu’une rupture se crée entre les professionnel(le)s du numérique qui travaillent sur un projet d’innovation et le reste des équipes métier, il est crucial de **faire converger l'ensemble des parties prenantes vers une même culture de travail**. Les postures de sachant(e)s ne sont pas encouragées !
 
-> *« Ce qu’il y a de nouveau, c’est de développer l’intraprenariat, la posture qu’on leur demande, d’agilité et d’impact »*
+> *« Ce qu’il y a de nouveau, c’est de développer l’intraprenariat, la posture qu’on leur demande, d’agilité et d’impact » - Stéphanie Combes*
 
 Par conséquent, un respect des priorités préexistantes de l’organisation est utile : pour pérenniser une innovation, il faut « sortir de l’innovation de garage » et se réinscrire dans l’organisation naturelle de la structure, la normaliser : les nouvelles pratiques éprouvées sont intégrées à l'ADN de l'organisation, si bien que de nouveaux projets en bénéficieront naturellement.
 
-> *« On a réussi à pérenniser notre plateforme en embarquant notre équipe informatique, qui au démarrage n’était pas forcément enjouée. On a dû s’approprier l’outil. »*
+> *« On a réussi à pérenniser notre plateforme en embarquant notre équipe informatique, qui au démarrage n’était pas forcément enjouée. On a dû s’approprier l’outil. » - Stéphanie Combes*
 
 ## Embarquer sa hiérarchie, pour faciliter l’adhésion et libérer la coopération
 
@@ -58,7 +58,7 @@ Certaines décisions doivent être cherchées rapidement par le porteur ou la po
 
 Pour limiter les départs et, partants, les risques, il s’agit en amont de prendre conscience des contraintes naturelles de l’administration : faire marcher les sponsors, jouer avec les « équivalents temps plein » (ETP) avant que le projet devienne assez mature pour négocier de nouveaux supports de poste et, surtout, pour légitimer son équipe auprès de l’écosystème. Tous les moyens sont bons pour convaincre, y compris la recherche d’aides financières et opérationnelles, proposées par exemple par la DINUM et la DITP.
 
-> *« Le plus difficile est de gérer ce délai incompressible pour avoir des résultats suffisamment convaincants pour que la personne qui décide choisisse de donner un poste supplémentaire »*
+> *« Le plus difficile est de gérer ce délai incompressible pour avoir des résultats suffisamment convaincants pour que le décideur choisisse de donner un poste supplémentaire » - Stéphanie Combes*
 
 La décision finale, enfin, revient aux équipes elles-mêmes. Prenez-en soin ! L’innovation rapide et la recherche d’impact entrent parfois en tension avec la vision à long-terme d’un produit qui se veut ambitieux et évolutif. Il faut aussi s’atteler à éviter l’épuisement des équipes en mixant les compétences et en s’assurant d’une répartition correcte du temps de travail. Tout(e) expert(e) ne fait pas spontanément un(e) bon(ne) chef(fe) de produit: les formations initiales et continues sont indispensables !
 
