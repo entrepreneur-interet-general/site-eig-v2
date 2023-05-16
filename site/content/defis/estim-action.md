@@ -3,7 +3,7 @@ title: Estim'Action
 description: Aider les collectivités à réduire les nuisances routières, sources
   de pollution atmosphérique et sonore
 who: Cerema
-place: ""
+place: Test
 themes:
   - Santé-Environnement
 promos:
@@ -16,14 +16,41 @@ expertises:
 image: img/promotion-6/defis/04_EstimAction.svg
 visible: true
 ---
+## L'administration porteuse
+### Cerema, l'expertise publique pour la transition écologique et la cohésion des territoires
+Le Cerema est l’établissement de référence dans les domaines de l’expertise et de l’ingénierie publique pour accompagner les territoires dans leurs missions d’adaptation aux changements climatiques. Il assiste l’État, les collectivités territoriales et les entreprises pour les conduire vers une stratégie d’aménagement durable (bâtiments, infrastructures, environnement …).
+
+## Le défi aujourd'hui
+
+
+L’objectif du défi depuis sa genèse est d’accompagner les collectivités territoriales dans la réduction des nuisances sur leur territoire : bruit, mauvaise qualité de l’air…Au fil de nos discussions avec les collectivités territoriales, nous avons constaté que l’impact de ces nuisances sur la santé est un sujet d’actualité (la fameuse “santé environnement”) mais qui demeure difficile à apprivoiser et à prendre en compte systématiquement dans les politiques publiques.
+
+### Les besoins identifiés
+
+La première étape pour intégrer la santé environnement dans les politiques menées consiste généralement à dresser un diagnostic du territoire sur ces thématiques.Les agents rencontrés au sein des collectivités territoriales nous ont permis de faire émerger trois problématiques principales rencontrées lors de la création de ce diagnostic :
+
+- Les données relatives à la santé environnementale sont produites par différents acteurs et sont donc éparpillées
+- Il n’est pas toujours simple de savoir quelle est la donnée la plus à jour
+- Des diagnostics ont déjà été réalisés mais cela prend beaucoup de temps. Le livrable est généralement un PDF statique qui devient rapidement obsolète
+
+### Le concept expérimenté
+
+Estim’action est un tableau de bord numérique qui permet aux collectivités de centraliser des données pour dresser un diagnostic santé environnement de leur territoire.L’idée est de quantifier et qualifier les effets des nuisances sur la santé. C’est à dire, d’une part de faire savoir combien de personnes sont concernées par chacune des nuisances mais également de rendre compte des impacts potentiels de celles-ci sur la santé des personnes exposées.
+
+### Comment participer ?
+
+Si le projet vous intéresse, vous pouvez :
+
+- vous abonner à notre newsletter mensuelle sur [estimaction.fr](http://estimaction.fr/)
+- nous contacter [par mail](mailto:estimaction@cerema.fr)
+
+
+
+
+## Aux origines du défi
 
 {{< dailymotion x8akknf "Vidéo de présentation du défi Estim'Action">}}
 
-## Le défi à relever
-
-#### L'administration porteuse{.subtitle}
-### Cerema, l'expertise publique pour la transition écologique et la cohésion des territoires
-Le Cerema est l’établissement de référence dans les domaines de l’expertise et de l’ingénierie publique pour accompagner les territoires dans leurs missions d’adaptation aux changements climatiques. Il assiste l'État, les collectivités territoriales et les entreprises pour les conduire vers une stratégie d'aménagement durable (bâtiments, infrastructures, environnement …).
 
 #### La problématique identifiée{.subtitle}
 ### La complexité de l'analyse de la qualité de l’air rend difficile la mise en place d'actions au sein des collectivités
