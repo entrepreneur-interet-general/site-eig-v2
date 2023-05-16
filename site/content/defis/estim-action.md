@@ -17,7 +17,7 @@ image: img/promotion-6/defis/04_EstimAction.svg
 visible: true
 ---
 ## L'administration porteuse
-### Cerema, l'expertise publique pour la transition écologique et la cohésion des territoires
+#### Cerema, l'expertise publique pour la transition écologique et la cohésion des territoires{.subtitle}
 Le Cerema est l’établissement de référence dans les domaines de l’expertise et de l’ingénierie publique pour accompagner les territoires dans leurs missions d’adaptation aux changements climatiques. Il assiste l’État, les collectivités territoriales et les entreprises pour les conduire vers une stratégie d’aménagement durable (bâtiments, infrastructures, environnement …).
 
 ## Le défi aujourd'hui
