@@ -12,4 +12,4 @@ image: img/placeholder_homme.svg
 ---
 Passionné de données et soucieux des enjeux d’aujourd’hui et de demain, les circonstances actuelles comme la crise sanitaire, la guerre aux portes de l’Union Européenne ou le réchauffement climatique ont fait émerger de nouvelles méthodes de fonctionnement, en repensant l’utilisation des ressources à la fois humaines et matérielles. 
 
-Intéressé par la diversité des projets et l’aspect entrepreneurial et innovante, je suis très heureux de contribuer aux changements qui sont en cours au sein du service public afin de la rendre moderne et meilleure grâce au défi OptiFlex impactant sur le mode de travail et les finances publiques.
+Intéressé par la diversité des projets et l’aspect entrepreneurial et innovante, je suis très heureux de contribuer aux changements qui sont en cours au sein du service public afin de le rendre moderne et meilleur grâce au défi OptiFlex impactant sur le mode de travail et les finances publiques.
