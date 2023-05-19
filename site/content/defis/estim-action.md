@@ -35,7 +35,7 @@ La première étape pour intégrer la santé environnement dans les politiques m
 - Il n’est pas toujours simple de savoir quelle est la donnée la plus à jour
 - Des diagnostics ont déjà été réalisés mais cela prend beaucoup de temps. Le livrable est généralement un PDF statique qui devient rapidement obsolète.
 
-### Le concept expérimenté{.subtitle}
+#### Le concept expérimenté{.subtitle}
 ### Un tableau de bord des effets des nuisances sur la santé dans les territoires
 Estim’action est un tableau de bord numérique qui permet aux collectivités de centraliser des données pour dresser un diagnostic santé environnement de leur territoire. L’idée est de quantifier et qualifier les effets des nuisances sur la santé. C’est-à-dire, d’une part, de faire savoir combien de personnes sont concernées par chacune des nuisances, mais également de rendre compte des impacts potentiels de celles-ci sur la santé des personnes exposées.
 
