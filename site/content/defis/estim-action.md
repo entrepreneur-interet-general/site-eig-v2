@@ -1,5 +1,5 @@
 ---
-title: Estim'action
+title: Estim’action
 description: Aider les collectivités à réduire les nuisances routières, sources
   de pollution atmosphérique et sonore
 who: Cerema
@@ -37,10 +37,11 @@ La première étape pour intégrer la santé environnement dans les politiques m
 ### Un tableau de bord des effets des nuisances sur la santé dans les territoires
 Estim’action est un tableau de bord numérique qui permet aux collectivités de centraliser des données pour dresser un diagnostic santé environnement de leur territoire. L’idée est de quantifier et qualifier les effets des nuisances sur la santé. C’est-à-dire, d’une part, de faire savoir combien de personnes sont concernées par chacune des nuisances, mais également de rendre compte des impacts potentiels de celles-ci sur la santé des personnes exposées.
 
-### Comment participer ?
-Si le projet vous intéresse, vous pouvez :
+#### Plus d'informations
+### Comment contribuer au projet ?
+Si le projet Estim'action vous intéresse, vous pouvez :
 - vous abonner à notre newsletter mensuelle sur [estimaction.fr](http://estimaction.fr/)
-- nous contacter [par mail](mailto:estimaction@cerema.fr)
+- nous contacter [par courriel](mailto:estimaction@cerema.fr)
 
 {{< dailymotion x8akknf "Vidéo de présentation du défi Estim’Action">}}
 
