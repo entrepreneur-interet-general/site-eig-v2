@@ -16,11 +16,9 @@ expertises:
 image: img/promotion-6/defis/04_EstimAction.svg
 visible: true
 ---
-## L’administration
+#### L’administration porteuse{.subtitle}
 ### Le Cerema, l’expertise publique pour la transition écologique et la cohésion des territoires
 Le Cerema est l’établissement de référence dans les domaines de l’expertise et de l’ingénierie publique pour accompagner les territoires dans leurs missions d’adaptation aux changements climatiques. Il assiste l’État, les collectivités territoriales et les entreprises pour les conduire vers une stratégie d’aménagement durable (bâtiments, infrastructures, environnement…).
-
-{{< dailymotion x8akknf "Vidéo de présentation du défi Estim’Action">}}
 
 ## Le défi aujourd’hui
 
@@ -43,6 +41,8 @@ Estim’action est un tableau de bord numérique qui permet aux collectivités d
 Si le projet vous intéresse, vous pouvez :
 - vous abonner à notre newsletter mensuelle sur [estimaction.fr](http://estimaction.fr/)
 - nous contacter [par mail](mailto:estimaction@cerema.fr)
+
+{{< dailymotion x8akknf "Vidéo de présentation du défi Estim’Action">}}
 
 ## Aux origines du défi
 
