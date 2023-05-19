@@ -1,7 +1,7 @@
 ---
 title: Corine Waroquiers
 job: Responsable du programme
-role: agent-programme
+role: agent-ecosysteme
 expertises:
   - Juriste
 image: img/corine-waroquiers.png
