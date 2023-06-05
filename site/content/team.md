@@ -4,8 +4,7 @@ layout: team
 menu: team
 url: /equipe
 desc: Entrepreneurs d’intérêt général est un programme d’innovation numérique
-  des Services du Premier Ministre porté par Etalab, à la Direction
-  interministérielle du numérique.
+  porté par la Direction interministérielle du numérique.
 introProg: "Du recrutement des promotions à la pérennisation des défis dans les
   administrations, l'équipe du programme vous accompagne de bout en bout. "
 introEco: "Le programme EIG s'inscrit dans l'écosystème du numérique et de
