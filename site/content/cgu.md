@@ -5,7 +5,7 @@ url: /cgu
 ---
 ## Éditeur
 
-Ce site est édité par l'équipe Entrepreneurs d'intérêt général, programme d’innovation numérique des Services du Premier Ministre porté par Etalab, à la Direction interministérielle du numérique..
+Ce site est édité par l'équipe Entrepreneurs d'intérêt général, programme d’innovation numérique des Services du Premier Ministre porté la Direction interministérielle du numérique.
 
 DINUM\
 20 avenue de Ségur\
@@ -17,7 +17,7 @@ SIREN : 120 001 011
 
 ## Directeur de publication
 
-Pour les sujets relevant de la DINUM (transformation numérique de l’État) : Nadi Bou Hanna, directeur interministériel du numérique.
+Pour les sujets relevant de la DINUM (transformation numérique de l’État) : Stéphanie Schaer, directrice interministérielle du numérique
 
 ## Conception et gestion du site
 
