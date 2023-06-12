@@ -57,8 +57,8 @@ Dans l'optique de réduire la fragmentation de l'écosystème et de consolider l
 
 ### Comment contribuer au projet ?
 
-* Pour tester Écosphère(s), inscrivez vous ici : https://tally.so/r/w4BvW5 ou contactez nous à l'adresse : ecospheres@developpement-durable.gouv.fr- 
-* Retrouvez les résultats de l'étude que nous avons menée sur les usages des données : https://tinyurl.com/etudeecospheres
+* Pour tester Écosphère(s), inscrivez vous ici : <https://tally.so/r/w4BvW5> ou contactez nous à l'adresse : ecospheres@developpement-durable.gouv.fr 
+* Retrouvez les résultats de l'étude que nous avons menée sur les usages des données : <https://tinyurl.com/etudeecospheres>
 
 {{< dailymotion x8akknh "Vidéo de présentation du défi Ecosphère(s)">}}
 
