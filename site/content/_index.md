@@ -39,8 +39,8 @@ agents:
     - Fabrice Bélorgey
 join:
   image: img/photo-de-nadim.jfif
-  sub: "de la promotion 6 du programme d'Entrepreneur d'intérêt général "
-  title: Participer à la cérémonie de clôture
+  sub: "de la promotion EIG 6 "
+  title: Cérémonie de clôture
   btn:
     title: Je m'inscris
     url: https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-6eme-promotion-634720745837
