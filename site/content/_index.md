@@ -38,8 +38,8 @@ agents:
     - Fabrice Bélorgey
 join:
   image: img/eig-groupe.jpg
-  sub: "de la promotion EIG 6 "
-  title: Cérémonie de clôture
+  sub: "Cérémonie de clôture de la promotion EIG 6 "
+  title: Regard(s) sur l'innovation publique
   btn:
     title: Je m'inscris
     url: https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-6eme-promotion-634720745837
