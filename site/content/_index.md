@@ -2,7 +2,7 @@
 title: Page d'accueil
 hero:
   btn:
-    title: Rendez-vous le 29 juin 2023
+    title: Rendez-vous le 29 juin 2023 à 14 h
     url: https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-6eme-promotion-634720745837
   title: |-
     Cérémonie de clôture
