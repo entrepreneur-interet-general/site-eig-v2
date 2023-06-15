@@ -2,8 +2,8 @@
 title: Page d'accueil
 hero:
   btn:
-    title: Participer
-    url: /participer
+    title: Participez à la cérémonie de clôture de la promotion 6
+    url: https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-6eme-promotion-634720745837
   title: |+
     Entreprendre
     pour le service public.
