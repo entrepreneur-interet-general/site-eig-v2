@@ -38,7 +38,7 @@ agents:
     - Fabrice Bélorgey
 join:
   image: img/eig-groupe.jpg
-  sub: "Cérémonie de clôture de la promotion EIG 6 "
+  sub: Cérémonie de clôture de la promotion EIG 6 le 29 juin 2023
   title: Regard(s) sur l'innovation publique
   btn:
     title: Je m'inscris
