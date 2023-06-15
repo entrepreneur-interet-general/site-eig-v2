@@ -24,7 +24,7 @@ L’Institut national de l’information géographique et forestière (IGN) est 
 
 #### La problématique identifiée{.subtitle}
 ### La représentation en 2D de phénomènes complexes n’est parfois pas suffisante pour être comprise et interprétée
-Les Directions Départementales des Territoires (DDT) contribuent à la prévention des risques d'inondation. Pour ce faire, elles disposent de données cartographiques et d'informations géographiques précieuses. Cependant, leur représentation en 2 dimensions (2D) ne permet pas toujours de rendre parfaitement intelligibles des éléments majeurs tels que les reliefs, les dynamique ou les hauteurs d'eau sur un bâtiment. 
+Les Directions Départementales des Territoires (DDT) contribuent à la prévention des risques d'inondation. Pour ce faire, elles disposent de données cartographiques et d'informations géographiques précieuses. Cependant, leur représentation en 2 dimensions (2D) ne permet pas toujours de rendre parfaitement intelligibles des éléments majeurs tels que les reliefs, les dynamiques ou les hauteurs d'eau sur un bâtiment. 
 
 #### Les besoins confirmés{.subtitle}
 ### Visualiser la donnée en 3D permet de mieux la comprendre
