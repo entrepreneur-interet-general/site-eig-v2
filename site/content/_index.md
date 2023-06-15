@@ -2,8 +2,8 @@
 title: Page d'accueil
 hero:
   btn:
-    title: Participez à la cérémonie de clôture de la promotion 6
-    url: https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-6eme-promotion-634720745837
+    title: ""
+    url: ""
   title: |+
     Entreprendre
     pour le service public.
@@ -39,12 +39,12 @@ agents:
     - Fabrice Bélorgey
 join:
   image: img/photo-de-nadim.jfif
-  sub: "du programme d'Entrepreneur d'intérêt général "
-  title: Rejoindre la promotion 6
+  sub: "de la promotion 6 du programme d'Entrepreneur d'intérêt général "
+  title: Participer à la cérémonie de clôture
   btn:
-    title: Participer
-    url: https://eig.etalab.gouv.fr/participer/
-    external: false
+    title: Je m'inscris
+    url: https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-6eme-promotion-634720745837
+    external: true
 medias:
   desc: Parcourez les articles, tribunes, posts de blog sur le programme
   tiles:
