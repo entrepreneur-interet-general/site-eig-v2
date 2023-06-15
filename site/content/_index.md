@@ -38,7 +38,7 @@ agents:
     - Emilie Jeannesson-Mange
     - Fabrice Bélorgey
 join:
-  image: img/photo-de-nadim.jfif
+  image: img/eig-groupe.jpg
   sub: "de la promotion EIG 6 "
   title: Cérémonie de clôture
   btn:
