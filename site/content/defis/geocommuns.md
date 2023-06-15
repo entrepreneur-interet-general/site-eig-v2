@@ -32,7 +32,7 @@ Au sein des services déconcentrés de l’État, les agent(e)s ont besoin de re
 
 #### Le concept expérimenté{.subtitle}
 ### Un outil en ligne de visualisation 3D d’une inondation potentielle
-Observateur du territoire national en continue, l'IGN dispose de ressources stratégiques pour accompagner les acteurs publics dans la valorisation de données clés et répondre à des besoins multiples. Dans le cadre du défi EIG autour des géocommuns numériques, le service Inondata est un visualisateur 3D disponible en ligne, qui permet de visualiser les hauteurs et dynamiques d’eau d’une inondation potentielle par rapport à la description d’un territoire fournie par la donnée LiDAR HD. Les agent(e)s des unités de prévention des risques des DDT disposent d’un support de communication en 3D pour mieux échanger et aider à la compréhension du risque.
+Observateur du territoire national en continu, l'IGN dispose de ressources stratégiques pour accompagner les acteurs publics dans la valorisation de données clés et répondre à des besoins multiples. Dans le cadre du défi EIG autour des géocommuns numériques, le service Inondata est un visualisateur 3D disponible en ligne, qui permet de visualiser les hauteurs et dynamiques d’eau d’une inondation potentielle par rapport à la description d’un territoire fournie par la donnée LiDAR HD. Les agent(e)s des unités de prévention des risques des DDT disposent d’un support de communication en 3D pour mieux échanger et aider à la compréhension du risque.
 
 #### Plus d'informations{.subtitle}
 ### Comment contribuer au projet ?
