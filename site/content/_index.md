@@ -4,10 +4,9 @@ hero:
   btn:
     title: Rendez-vous le 29 juin 2023
     url: https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-6eme-promotion-634720745837
-  title: |+
-    Entreprendre
-    pour le service public.
-
+  title: |-
+    Cérémonie de clôture
+    de la promotion EIG 6
 intro:
   desc: Le programme Entrepreneurs d'intérêt général sélectionne des spécialistes
     de la technologie, du design et du droit du numérique pour tester et
