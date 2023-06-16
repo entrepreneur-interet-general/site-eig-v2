@@ -35,7 +35,7 @@ La crise sanitaire a accéléré l'émergence de nouvelles habitudes de travail 
 
 ### Améliorer l'expérience de travail des agents ne passe pas seulement par le réaménagement des espaces de travail
 
-L'intelligence collective est au coeur de l'amélioration de l'expérience de travail des agents. Avant même d'imaginer un réaménagement ou de transformer des espaces, il est essentiel de sensibiliser les équipes, les intégrer dans la réflexion, en faire des ambassadeurs du changement - un levier puissant de reconnaissance. Mais c'est aussi l'opportunité de recueillir leurs difficultés au quotidien et de les résoudre, en réaménageant leurs bureaux et en proposant de nouveaux modes de fonctionnement collectifs. En outre, pour assurer l'homogénéisation des pratiques et faciliter l'autonomie des agents, la conception d'un service numérique est bienvenu. Avec son tableau de bord et son interface à destination des gestionnaires, il est aussi la clé pour assurer une meilleure gestion du foncier.
+L'intelligence collective est au coeur de l'amélioration de l'expérience de travail des agents. Avant même d'imaginer un réaménagement ou de transformer des espaces, il est essentiel de sensibiliser les équipes, les intégrer dans la réflexion, en faire des ambassadeurs du changement - un levier puissant de reconnaissance. Mais c'est aussi l'opportunité de recueillir leurs difficultés au quotidien et de les résoudre, en réaménageant leurs bureaux et en proposant de nouveaux modes de fonctionnement collectifs. En outre, pour assurer l'homogénéisation des pratiques et faciliter l'autonomie des agents, la conception d'un service numérique est bienvenue. Avec son tableau de bord et son interface à destination des gestionnaires, il est aussi la clé pour assurer une meilleure gestion du foncier.
 
 #### Le concept expérimenté{.subtitle}
 
@@ -47,7 +47,7 @@ Notre périmètre d'expérimentation est le ministère des Armées. Plusieurs es
 
 ### Comment contribuer au projet ?
 
-Vous souhaitez une démonstration d'OptiFlex pour l'expérimentation dans votre administration ? N'hésitez pas à contacter les EIG Clara Carneiro Alves (clara.carneiro-alves@def.gouv.fr) et Sophie Topart (sophie.topart@def.gouv.fr).
+Vous souhaitez une démonstration d'OptiFlex pour l'expérimenter dans votre administration ? N'hésitez pas à contacter les EIG Clara Carneiro Alves (clara.carneiro-alves@def.gouv.fr) et Sophie Topart (sophie.topart@def.gouv.fr).
 
 {{< dailymotion x8aotqe "Vidéo de présentation du défi OptiFlex">}}
 
