@@ -205,5 +205,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Travail</title>
+      <link>/themes/travail/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
+      
+      <guid>/themes/travail/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
