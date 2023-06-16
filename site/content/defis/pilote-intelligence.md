@@ -46,10 +46,9 @@ Pour faire fonctionner ce dispositif, il est demandé aux ministères de renseig
 ### Simplifier la saisie, la recherche et la compréhension des données pour améliorer les échanges entre administrations centrales et déconcentrées
 
 La nouvelle version de PILOTE a pour objectif d’améliorer les échanges sur la mise en œuvre des politiques prioritaires entre administrations centrales et déconcentrées. Elle s’appuie sur trois évolutions : 
-
-1. Rapprocher la saisie de la visualisation en intégrant des fonctionnalités de saisie des données et des commentaires qui étaient auparavant gérées par un autre outil. 
-   2﻿. Contextualiser les informations en permettant aux utilisateurs de voir la source des données, les modalités de calcul ainsi que les dates et les auteurs des mises à jour. 
-   3﻿. Rechercher quelles sont les politiques publiques en réussite et en difficulté au niveau national et par territoire via des alertes et des filtres. Les utilisateurs peuvent ensuite lire les explications et échanger sur les obstacles et leviers avec les responsables locaux..
+*﻿ Rapprocher la saisie de la visualisation en intégrant des fonctionnalités de saisie des données et des commentaires qui étaient auparavant gérées par un autre outil. 
+*﻿ Contextualiser les informations en permettant aux utilisateurs de voir la source des données, les modalités de calcul ainsi que les dates et les auteurs des mises à jour. 
+*﻿ Rechercher quelles sont les politiques publiques en réussite et en difficulté au niveau national et par territoire via des alertes et des filtres. Les utilisateurs peuvent ensuite lire les explications et échanger sur les obstacles et leviers avec les responsables locaux.
 
 #### Plus d'informations{.subtitle}
 
