@@ -47,7 +47,7 @@ L'outil Champollion à destination des inspecteurs du travail comprend trois vol
 
 ### Comment contribuer au projet ?
 
-* Vous abonner à notre [newsletter bimestrielle](<* https://forms.diffusion.travail.gouv.fr/5a5873edb85b530da84d23f7/BxL6c0daQsmQ0aUkhDC2_g/r0XKFuVESS68tOkueYjRSg/form.html>).
+* Vous abonner à notre [newsletter bimestrielle](<https://forms.diffusion.travail.gouv.fr/5a5873edb85b530da84d23f7/BxL6c0daQsmQ0aUkhDC2_g/r0XKFuVESS68tOkueYjRSg/form.html>).
 * Si vous pensez à un cas d'usage de la DSN, n'hésitez pas à nous contacter par courriel : champollion@sg.social.gouv.fr
 
 {{< dailymotion x8akknd "Vidéo de présentation du défi Champollion">}}
