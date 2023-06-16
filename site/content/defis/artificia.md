@@ -28,7 +28,7 @@ L’Institut national de l’information géographique et forestière (IGN) est 
 
 ### Cartographier plus finement l'occupation des sols
 
-Dans le cadre de l’objectif Zéro Artificialisation Nette (ZAN), l’État finance la production d’un référentiel géographique d’occupation du sol à grande échelle (OCS GE), qui décrit la couverture et l’usage des sols. Toutefois, des données plus fines que celles de l’OCSGE et en ""open data"" font défaut aux territoires pour développer des usages au-delà du suivi de l’artificialisation via l’OCSGE. En charge de la production de ce référentiel, l'IGN utilise des processus à base d’intelligence artificielle dont il résulte des données intermédiaires (codes, annotations et cartes de prédiction). Il s’est révélé nécessaire de valoriser ces données afin de permettre aux services de l'État et aux collectivités de les exploiter et d’approfondir l'étude des sols et de l'aménagement du territoire.
+Dans le cadre de l’objectif Zéro Artificialisation Nette (ZAN), l’État finance la production d’un référentiel géographique d’occupation du sol à grande échelle (OCS GE), qui décrit la couverture et l’usage des sols. Toutefois, des données plus fines que celles de l’OCSGE et en "open data" font défaut aux territoires pour développer des usages au-delà du suivi de l’artificialisation via l’OCSGE. En charge de la production de ce référentiel, l'IGN utilise des processus à base d’intelligence artificielle dont il résulte des données intermédiaires (codes, annotations et cartes de prédiction). Il s’est révélé nécessaire de valoriser ces données afin de permettre aux services de l'État et aux collectivités de les exploiter et d’approfondir l'étude des sols et de l'aménagement du territoire.
 
 #### Les besoins confirmés{.subtitle}
 
