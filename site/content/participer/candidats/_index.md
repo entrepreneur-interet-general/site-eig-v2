@@ -23,11 +23,9 @@ def:
 
       1. Art de conjuguer le potentiel du numérique aux enjeux de l’intérêt général.
 
-      2. Membre d’un collectif mêlant compétences numériques, humour geek et appétence pour les valeurs d’ouverture.
+      2. Membre d’un collectif mêlant compétences numériques, attachement à l'égalité et la diversité, appétence pour les valeurs d’ouverture et goût du dépassement de fonction.
 
-      3. Démarche alliant l’agilité et un goût prononcé pour les défis propres à l’administration, afin de créer de nouvelles solutions pour les usagers et les agents publics.
-
-      4. Néologisme employé par l’administration du XXIe siècle : « Il faut qu’on s’EIGise » ayant remplacé - le « moderniser le service public par le numérique » du XXe siècle
+      3. Démarche alliant l’agilité et le sens du service public, afin de créer de nouvelles solutions pour les citoyen(ne)s et les agent(e)s.
 what:
   title: EIG, concrètement c'est quoi ?
   defs:
