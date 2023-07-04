@@ -11,8 +11,8 @@ intro:
   desc: Le programme Entrepreneur(e)s d'intérêt général sélectionne des
     spécialistes de la technologie, du design et du droit du numérique pour
     tester et expérimenter de nouveaux possibles avec des agent(e)s de l’État
-  title: Nous réunissons talents du numérique et agents publics pour relever des
-    défis d’intérêt général
+  title: Nous réunissons talents du numérique et agent(e)s de service public pour
+    relever des défis d’intérêt général
 defis:
   sub: Relever des défis concrets du service public
   desc: "De la justice à la santé, en passant par la culture, l'éducation et la
