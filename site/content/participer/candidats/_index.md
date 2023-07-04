@@ -33,7 +33,8 @@ what:
     - def: Faire équipe avec un ou deux autres profils tech, design ou en droit du
         numérique
     - def: Expérimenter autour de projets pour améliorer l’action publique
-    - def: Entrer dans l'écosystème du numérique public (Etalab, DINUM,...)
+    - def: Entrer dans l'écosystème du numérique public (Etalab, Beta.gouv,
+        Design.gouv...)
 layout: candidates
 title: Candidates et candidats EIG
 profiles:
@@ -43,13 +44,13 @@ profiles:
     nécessitent les défis :
 
 
+    * des designers
+
     * des développeurs et développeuses
 
-    * des data scientists 
+    * des ingénieur(e)s de la donnée 
 
-    * des data engineers
-
-    * des designers
+    * des ingénieur(e)s des sciences de la donnée 
 
     * des juristes du numérique
 
@@ -59,7 +60,7 @@ profiles:
     - Clara Carneiro Alves
     - Loup Theron
     - Amélie Medem
-  sub: Ils et elles sont devenus EIG
+  sub: Elles et ils sont devenu(e)s EIG
 conditions:
   title: Conditions
   desc: >-
@@ -70,7 +71,7 @@ conditions:
 
     * Un salaire 3 500 € jusqu’à 5 années d’expérience au total, 4 000 € au-delà de 5 années
 
-    * L'accès à une communauté d’experts et expertes avec l’appui technique et méthodologique des équipes d’Etalab et de la DINUM tout au long des 10 mois du programme
+    * L'accès à une communauté d’experts et d'expertes avec l’appui technique et méthodologique des coachs EIG tout au long des 10 mois du programme
 how:
   title: Comment devenir EIG de la prochaine promotion ?
   desc: >-
@@ -89,21 +90,11 @@ how:
 
     2. **Si vous êtes pré-sélectionnés, vous votez** pour les défis que vous souhaitez relever
 
-    3. **Vous échangez avec un jury** composé d'agents publics et d'experts lors d'une audition pour relever un défi pour lequel vous avez voté
+    3. **Vous échangez avec un jury** composé d'agent(e)s et d'expert(e)s lors d'une audition pour relever un défi pour lequel vous avez voté
 
-    4. **Vous rejoignez le programme Entrepreneurs d'intérêt général et une administration** pendant 10 mois
-
-
-    ###### Pour en savoir plus :
-
-
-    * Accédez à [notre foire aux questions](https://eig.etalab.gouv.fr/participer/candidats/faq/)
-
-    * Consultez la [plaquette de l'appel à candidatures 2022](https://eig.etalab.gouv.fr/img/aac-eig6-plaquette.pdf)
-
-    * Lisez notre [article de blog](https://www.etalab.gouv.fr/letat-recherche-des-profils-du-numerique-rejoignez-les-entrepreneurs-dinteret-general/)
+    4. **Vous rejoignez le programme Entrepreneur(e)s d'intérêt général et une administration** pendant 10 mois
 wait:
-  title: L'appel à candidatures 2022 du programme Entrepreneurs d'Intérêt Général
-    est désormais clos.
+  title: L'appel à candidatures de la promotion 6 du programme Entrepreneur(e)s
+    d'Intérêt Général est clos.
   desc: ""
 ---
