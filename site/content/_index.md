@@ -2,37 +2,37 @@
 title: Page d'accueil
 hero:
   btn:
-    title: Rendez-vous le 29 juin 2023 à 14 h
-    url: https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-6eme-promotion-634720745837
+    title: ""
+    url: ""
   title: |-
-    Cérémonie de clôture
-    de la promotion EIG 6
+    Entreprendre
+    pour le service public
 intro:
-  desc: Le programme Entrepreneurs d'intérêt général sélectionne des spécialistes
-    de la technologie, du design et du droit du numérique pour tester et
-    expérimenter de nouveaux possibles avec des agents de l’État
+  desc: Le programme Entrepreneur(e)s d'intérêt général sélectionne des
+    spécialistes de la technologie, du design et du droit du numérique pour
+    tester et expérimenter de nouveaux possibles avec des agent(e)s de l’État
   title: Nous réunissons talents du numérique et agents publics pour relever des
     défis d’intérêt général
 defis:
   sub: Relever des défis concrets du service public
-  desc: "De la justice à la santé, en passant par la culture, l'éducation, la
+  desc: "De la justice à la santé, en passant par la culture, l'éducation et la
     défense, les défis ont un dénominateur commun : transformer les services
     publics par le numérique"
 talents:
-  sub: Les talents - ou « EIG »
+  sub: Les talents
   desc: Durant 10 mois, des femmes et des hommes apportent leur expertise - en
-    développement, en data science, en design et en droit du numérique - à la
-    réussite de ces défis.
+    design, en développement, en science de la donnée et en droit du numérique -
+    à la réussite de ces défis.
   list:
     - Thaïs Coutinho
     - Ryan Lahfa
     - Elisabeth Fainstein
 agents:
-  sub: Les agents publics
-  desc: "Issus de tout type d'administration, qu'elle soit centrale de l'Etat,
-    d'un de ses opérateurs ou agences, territoriale, de santé..., des agents
-    publics accueillent deux ou trois « EIG » dans leurs services pour relever
-    ensemble les défis. "
+  sub: Les agent(e)s
+  desc: "Issu(e)s de tout type d'administration, qu'elle soit centrale de l'Etat,
+    d'un de ses opérateurs ou agences, territoriale, de santé..., des agent(e)s
+    de service public accueillent deux ou trois « EIG » dans leurs équipes pour
+    relever ensemble les défis. "
   list:
     - Emilie Jeannesson-Mange
     - Fabrice Bélorgey
