@@ -37,7 +37,7 @@ agents:
     - Emilie Jeannesson-Mange
     - Fabrice Bélorgey
 join:
-  image: img/eig-groupe.jpg
+  image: img/eig-6-ceremonie-photo-promo.jpg
   sub: Cérémonie de clôture de la promotion EIG 6 le 29 juin 2023
   title: Regard(s) sur l'innovation publique
   btn:
