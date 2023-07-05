@@ -14,7 +14,7 @@ visible: true
 
 « *Je ne peux que conseiller \[aux agents publics] de se lancer dans cette aventure* », a attesté Estelle Jond-Necand lors d’une table-ronde organisée par l’équipe EIG le 9 novembre dernier, pendant le Mois de l’Innovation Publique
 
-C’est bien l’aventure du programme Entrepreneurs d’Intérêt Général que l’équipe du programme a invité des agents publics mentors de la promotion EIG 3 à raconter, un an après la fin de la promotion en novembre 2019 :
+C’est bien l’aventure du programme Entrepreneur(e)s d’Intérêt Général que l’équipe du programme a invité des agents publics mentors de la promotion EIG 3 à raconter, un an après la fin de la promotion en novembre 2019 :
 
 * [Dorian Fléchet](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/dorian-flechet.html) et [Lucas Bchini](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/lucas-bchini.html) pour **[CartoBio](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cartobio.html)**, défi de l’Agence Bio visant à cartographier les parcelles cultivées en agriculture biologique ;
 * [Estelle Jond-Necand](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2020/estelle-jond-necand.html) pour **[Open Justice](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openjustice.html)**, défi de la Cour de Cassation pour améliorer la pseudonymisation des décisions de justice et ainsi les ouvrir et les diffuser ;

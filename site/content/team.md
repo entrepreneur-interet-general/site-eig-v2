@@ -3,7 +3,7 @@ title: "Qui sommes-nous ? "
 layout: team
 menu: team
 url: /equipe
-desc: Entrepreneurs d’intérêt général est un programme d’innovation numérique
+desc: Entrepreneur(e)s d’intérêt général est un programme d’innovation numérique
   porté par la Direction interministérielle du numérique.
 introProg: "Du recrutement des promotions à la pérennisation des défis dans les
   administrations, l'équipe du programme vous accompagne de bout en bout. "

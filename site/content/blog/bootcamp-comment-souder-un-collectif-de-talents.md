@@ -6,17 +6,17 @@ categories:
 - Accompagnement
 - Méthode
 - Collectif
-title: Comment souder un collectif de talents et assurer sa réussite - Retour sur le bootcamp d'intégration de la promotion 2 des entrepreneurs d'intérêt général
+title: Comment souder un collectif de talents et assurer sa réussite - Retour sur le bootcamp d'intégration de la promotion 2 des entrepreneur(e)s d'intérêt général
 date: 2018-02-27T00:00:00.000Z
 visible: true
 ---
 
-### Retour sur le bootcamp d'intégration de la promotion 2 des entrepreneurs d'intérêt général
+### Retour sur le bootcamp d'intégration de la promotion 2 des entrepreneur(e)s d'intérêt général
 
 ![Les EIG de la promotion 2 posent tous ensemble, souriants, devant un mur-ardoise recouvert de mots et de dessins. Un homme grand et brun, est assis au centre et tient un ordinateur qui affiche les mots EIG2.](/img/blog/bootcamp/promotion2.jpg)
 _La promotion 2 des EIG au [Liberté Living Lab](https://www.liberte.paris/), qui accompagne la promotion aux côtés d’Etalab et accueille les EIG en tant que résidents-nomades. (© Liberté Living Lab)_
 
-Lundi 5 février 2018, 9h : début de la semaine de bootcamp, pendant laquelle les entrepreneurs s’absentent des administrations d’accueil qu’ils ont intégrées le 15 janvier, pour se retrouver en promotion pour la première fois. **Au programme : une semaine entière en collectif, orchestrée par l’équipe Etalab en charge de coordonner le programme.**
+Lundi 5 février 2018, 9h : début de la semaine de bootcamp, pendant laquelle les entrepreneur(e)s s’absentent des administrations d’accueil qu’ils ont intégrées le 15 janvier, pour se retrouver en promotion pour la première fois. **Au programme : une semaine entière en collectif, orchestrée par l’équipe Etalab en charge de coordonner le programme.**
 
 Les EIG disposent de 10 mois pour réussir les [**défis de transformation numérique**](https://entrepreneur-interet-general.etalab.gouv.fr/) qui leur ont été lancés. Ainsi, il nous semblait important de mettre en place, dès le départ, les conditions indispensables à leur succès, à travers une semaine d’embarquement accélérée.
 

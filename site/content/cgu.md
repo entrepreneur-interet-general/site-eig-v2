@@ -5,7 +5,7 @@ url: /cgu
 ---
 ## Éditeur
 
-Ce site est édité par l'équipe Entrepreneurs d'intérêt général, programme d’innovation numérique des Services du Premier Ministre porté la Direction interministérielle du numérique.
+Ce site est édité par l'équipe Entrepreneur(e)s d'intérêt général, programme d’innovation numérique des Services du Premier Ministre porté la Direction interministérielle du numérique.
 
 DINUM\
 20 avenue de Ségur\
@@ -21,7 +21,7 @@ Pour les sujets relevant de la DINUM (transformation numérique de l’État) : 
 
 ## Conception et gestion du site
 
-Ce site est conçu et développé par l'équipe du programme Entrepreneurs d'intérêt général.
+Ce site est conçu et développé par l'équipe du programme Entrepreneur(e)s d'intérêt général.
 
 ## Code source du site
 

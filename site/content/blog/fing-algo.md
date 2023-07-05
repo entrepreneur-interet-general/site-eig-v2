@@ -16,7 +16,7 @@ La Fing animait le 26 septembre dernier son premier atelier [NosSystèmes](http:
 
 **Plusieurs projets projets du programme Entrepreneur.e d’Intérêt Général ont participé comme DataESR, Hopkins, Signaux faibles, OpenChronic ou LabSanté, ainsi que des partenaires de la Fing comme Orange, EDF et La Poste.**
 
-Il s’agissait pour nous de la première vraie séance de travail avec les entrepreneurs d’intérêt général. Afin de mieux les connaître, nous avions organisé cet atelier autour de trois questionnaires :
+Il s’agissait pour nous de la première vraie séance de travail avec les entrepreneur(e)s d’intérêt général. Afin de mieux les connaître, nous avions organisé cet atelier autour de trois questionnaires :
 - Le premier, **Portraits croisés**, interrogeait les participants sur leur capacité à répondre à leurs obligations légales en matière d’information sur les traitements algorithmiques qu’ils mettent en oeuvre.
 - Le deuxième creusait la question des **formes de médiations mises, ou pas, en oeuvre pour dialoguer avec les personnes physiques ou morales soumises à leurs algorithmes**.
 - Le dernier explorait les différentes **stratégies d’explication des traitements algorithmiques**.

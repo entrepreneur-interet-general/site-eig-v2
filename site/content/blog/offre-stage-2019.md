@@ -1,19 +1,19 @@
 ---
 author: Sophie Miljkovic, équipe EIG
-description: Rejoins-nous ! Nous recherchons quelqu’un pour appuyer le pilotage du programme Entrepreneurs d’Intérêt Général, pour un stage à temps plein de 4 à 6 mois à partir de janvier 2020.
+description: Rejoins-nous ! Nous recherchons quelqu’un pour appuyer le pilotage du programme Entrepreneur(e)s d’Intérêt Général, pour un stage à temps plein de 4 à 6 mois à partir de janvier 2020.
 image: img/session-mentors-2.jpg
 published: true
 categories:
 - Accompagnement
 - Recrutement
-title: 'Rejoins l''équipe Entrepreneurs d''Intérêt Général à Etalab : offre de stage « Chargé(e) de mission pour le programme EIG »'
+title: 'Rejoins l''équipe Entrepreneur(e)s d''Intérêt Général à Etalab : offre de stage « Chargé(e) de mission pour le programme EIG »'
 date: 2019-11-29T00:00:00.000Z
 visible: true
 ---
 
-### Offre de stage « Chargé(e) de mission pour le programme Entrepreneurs d’Intérêt Général» 
+### Offre de stage « Chargé(e) de mission pour le programme Entrepreneur(e)s d’Intérêt Général» 
 
-**Qu’est-ce qu'[Entrepreneurs d’Intérêt Général (EIG)](https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html) ?** C’est un programme qui permet à des spécialistes en data science, développement ou design d’intégrer l’administration pour 10 mois. Par équipes de 2 ou 3, ces spécialistes travaillent avec des agents des administrations d’accueil sur des projets d’amélioration du service public à l’aide du numérique et des données. [A titre d’exemple, les défis de la 3ème promotion touchaient à des sujets aussi variés](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html) que l’intégration des réfugiés, la promotion de l’agriculture biologique, le contrôle des navires, la simplification de l’accès au droit, etc. 
+**Qu’est-ce qu'[Entrepreneur(e)s d’Intérêt Général (EIG)](https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html) ?** C’est un programme qui permet à des spécialistes en data science, développement ou design d’intégrer l’administration pour 10 mois. Par équipes de 2 ou 3, ces spécialistes travaillent avec des agents des administrations d’accueil sur des projets d’amélioration du service public à l’aide du numérique et des données. [A titre d’exemple, les défis de la 3ème promotion touchaient à des sujets aussi variés](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html) que l’intégration des réfugiés, la promotion de l’agriculture biologique, le contrôle des navires, la simplification de l’accès au droit, etc. 
 
 À [Etalab](https://etalab.gouv.fr/), le département de la direction interministérielle du numérique qui met l’open data au service de l'action publique, nous sommes une équipe de 3 personnes qui pilote le programme au quotidien : [Mathilde](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/mathilde-bras.html), qui a développé le programme et s’occupe de ses aspects stratégiques, [Soizic](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/soizic-penicaud.html), qui a structuré l’accompagnement et coordonné la promotion 3, et moi, [Sophie](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2018/sophie-miljkovic.html), en charge de la communication. 
 

@@ -27,7 +27,7 @@ administrations**](/faq-administrations.html) du site.
 
 Cette rencontre fut également l’occasion de présenter les facteurs de succès d’un défi EIG. **Qu’est-ce qui permet qu’à la fin d’un défi, les administrations disposent d’outils numériques répondant à leur problématique métier de départ, qui puissent être pérennisés et réutilisés par d’autres services, voire hors de l’administration ?**
 
-Le programme EIG existe depuis bientôt 2 ans, et totalise déjà 22 défis et 39 entrepreneurs. Forts de cette expérience, nous avons identifié 6 facteurs de réussite d’un défi.
+Le programme EIG existe depuis bientôt 2 ans, et totalise déjà 22 défis et 39 entrepreneur(e)s. Forts de cette expérience, nous avons identifié 6 facteurs de réussite d’un défi.
 
 ## Un périmètre clair
 

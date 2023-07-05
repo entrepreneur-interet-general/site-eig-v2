@@ -1,6 +1,6 @@
 ---
 author: Antoine Augusti, EIG Link
-description: "En tant qu'équipe coordination du programme, nous avons comme missions principales la constitution de promotions, l'accompagnement des entrepreneurs au fil de l'année, faire rayonner et évoluer le programme EIG. Il s'est avéré nécessaire de mettre en place une base de connaissance comportant nos événements, nos processus, diverses explications et bonnes pratiques. Nous détaillons dans cet article quels sont les objectifs de notre documentation, la démarche de construction suivie et comment nous la faisons évoluer."
+description: "En tant qu'équipe coordination du programme, nous avons comme missions principales la constitution de promotions, l'accompagnement des entrepreneur(e)s au fil de l'année, faire rayonner et évoluer le programme EIG. Il s'est avéré nécessaire de mettre en place une base de connaissance comportant nos événements, nos processus, diverses explications et bonnes pratiques. Nous détaillons dans cet article quels sont les objectifs de notre documentation, la démarche de construction suivie et comment nous la faisons évoluer."
 image: img/doc-site.png
 categories:
 - Open
@@ -12,11 +12,11 @@ date: 2019-09-12T00:00:00.000Z
 visible: true
 ---
 
-Le programme Entrepreneurs d'Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneurs d'intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Ils interviennent dans les domaines du développement, du design et de la datascience. Avec les agents publics de leurs administrations d’accueil, ils ont 10 mois pour relever un défi d'amélioration du service public à l'aide du numérique et des données. Ces défis suivent une démarche de travail ouverte et transparente, notamment par la publication de productions en open source et en open data.
+Le programme Entrepreneur(e)s d'Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneurs d'intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Ils interviennent dans les domaines du développement, du design et de la datascience. Avec les agents publics de leurs administrations d’accueil, ils ont 10 mois pour relever un défi d'amélioration du service public à l'aide du numérique et des données. Ces défis suivent une démarche de travail ouverte et transparente, notamment par la publication de productions en open source et en open data.
 
-Le programme comporte actuellement une trentaine d'entrepreneurs par promotion, travaillant au sein de diverses administrations comme le ministère de la Transition écologique et solidaire, la Cour des comptes ou l'agence Bio.
+Le programme comporte actuellement une trentaine d'entrepreneur(e)s par promotion, travaillant au sein de diverses administrations comme le ministère de la Transition écologique et solidaire, la Cour des comptes ou l'agence Bio.
 
-En tant qu'équipe coordination du programme, nous avons comme missions principales la constitution de promotions, l'accompagnement des entrepreneurs au fil de l'année et faire rayonner et évoluer le programme EIG. **Dans ce cadre, il s'est avéré nécessaire de mettre en place une base de connaissance comportant nos événements, nos processus, diverses explications et bonnes pratiques.**
+En tant qu'équipe coordination du programme, nous avons comme missions principales la constitution de promotions, l'accompagnement des entrepreneur(e)s au fil de l'année et faire rayonner et évoluer le programme EIG. **Dans ce cadre, il s'est avéré nécessaire de mettre en place une base de connaissance comportant nos événements, nos processus, diverses explications et bonnes pratiques.**
 
 Nous détaillons dans cet article quels sont les objectifs de notre documentation, la démarche de construction suivie et comment nous la faisons évoluer.
 
@@ -25,7 +25,7 @@ Nous détaillons dans cet article quels sont les objectifs de notre documentatio
 
 Notre programme comporte plus de trente personnes qui travaillent dans des administrations dans plusieurs lieux géographiques. Chaque promotion a une courte durée de vie (dix mois), ce qui implique qu'il est nécessaire d'expliquer clairement les processus et les ressources à disposition lors de la phase d'accueil et d'offrir un moyen de pouvoir se rafraîchir la mémoire plus tard.
 
-Les utilisateurs cibles de notre documentation sont les entrepreneurs d'intérêt général, leurs mentors et l'équipe de coordination au sein d'Etalab. Les entrepreneurs ont besoin de comprendre comment fonctionne le programme et d'accéder à des ressources pour mener à bien leurs défis dans leurs administrations.
+Les utilisateurs cibles de notre documentation sont les entrepreneur(e)s d'intérêt général, leurs mentors et l'équipe de coordination au sein d'Etalab. Les entrepreneurs ont besoin de comprendre comment fonctionne le programme et d'accéder à des ressources pour mener à bien leurs défis dans leurs administrations.
 
 Pour répondre à ces besoins, notre documentation a été scindée en trois grandes parties. Voici quelques exemples de contenu que l'on peut retrouver :
 
@@ -41,7 +41,7 @@ Notre documentation ne s'est pas construite en un jour et elle continuera d'évo
 
 Conformément aux valeurs et objectifs de transparence et d'ouverture du programme, cette documentation est publiée sous licence libre [sur un dépôt Git](https://github.com/entrepreneur-interet-general/eig-link). Concrètement, notre documentation se compose de plusieurs fichiers textes écrits en [Markdown](https://fr.wikipedia.org/wiki/Markdown), un langage de balisage léger permettant d'écrire des documents textes.
 
-Notre documentation est collaborative : elle est maintenue principalement par l'équipe de coordination du programme mais les entrepreneurs sont invités à faire part de retours et contribuer. Ainsi, nous sommes ravis de constater que la documentation comporte déjà plus de 1000 modifications effectuées par 27 contributeurs.
+Notre documentation est collaborative : elle est maintenue principalement par l'équipe de coordination du programme mais les entrepreneur(e)s sont invités à faire part de retours et contribuer. Ainsi, nous sommes ravis de constater que la documentation comporte déjà plus de 1000 modifications effectuées par 27 contributeurs.
 
 
 > C'était important de commencer le travail de documentation dès le début de l'année 2018.  Ensuite, j'ai avancé au fil de l'eau en fonction des questions des EIG ou des besoins que j'anticipais. Avec une communauté dynamique où l'entraide est la norme, c'était un vrai plaisir.
@@ -69,8 +69,8 @@ Ainsi, nous disposons dorénavant d'une documentation accessible en ligne, agré
 
 ## Pistes d'évolution
 
-Nous sommes globalement satisfaits de notre documentation qui a bien évolué au fil du temps. Les entrepreneurs ou d'autres équipes au sein d'Etalab nous ont fait part de l'utilité de celle-ci pour remplir leurs missions. Par ailleurs, cette documentation a pu être un mécanisme d'incubation pour des guides plus étoffés ensuite publiés par Etalab ou la DINSIC, notamment autour des questions de publications de logiciels libres, d'algorithmes ou de données.
+Nous sommes globalement satisfaits de notre documentation qui a bien évolué au fil du temps. Les entrepreneur(e)s ou d'autres équipes au sein d'Etalab nous ont fait part de l'utilité de celle-ci pour remplir leurs missions. Par ailleurs, cette documentation a pu être un mécanisme d'incubation pour des guides plus étoffés ensuite publiés par Etalab ou la DINSIC, notamment autour des questions de publications de logiciels libres, d'algorithmes ou de données.
 
-Pour les mois à venir, nous souhaitons continuer à travailler sur le contenu existant, réorganiser nos différentes sections et publier des contenus pour ceux souhaitant répliquer un programme similaire au programme Entrepreneurs d'Intérêt Général dans une autre structure ou un autre contexte.
+Pour les mois à venir, nous souhaitons continuer à travailler sur le contenu existant, réorganiser nos différentes sections et publier des contenus pour ceux souhaitant répliquer un programme similaire au programme Entrepreneur(e)s d'Intérêt Général dans une autre structure ou un autre contexte.
 
 Nous avons hâte de continuer à étoffer cette documentation. Nous serions heureux qu'elle profite à d'autres. Si vous souhaitez échanger sur cette initiative, nous serions ravis [d'en discuter avec vous](https://entrepreneur-interet-general.etalab.gouv.fr/contact.html).

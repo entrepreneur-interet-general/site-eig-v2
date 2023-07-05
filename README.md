@@ -1,6 +1,6 @@
-# Site du programme Entrepreneurs d’intérêt général
+# Site du programme Entrepreneur(e)s d’intérêt général
 
-Entrepreneurs d’intérêt général permet à des talents du numérique ou « EIG » d’intégrer des administrations, pour relever en 10 mois des défis qui améliorent le service public.
+Entrepreneur(e)s d’intérêt général permet à des talents du numérique ou « EIG » d’intégrer des administrations, pour relever en 10 mois des défis qui améliorent le service public.
 
 En initiant des démarches d’exploration et d’émergence, l’ambition du programme est de développer une administration plus entrepreneuriale, tant dans ses méthodes que sa culture de travail. Ses valeurs cardinales sont :
 
@@ -13,7 +13,7 @@ Pour en savoir plus : https://eig.etalab.gouv.fr/programme.
 
 ## Engagement
 
-Dans un contexte d’engagement de l’Etat en faveur de l’ouverture des données depuis le Partenariat pour le gouvernement ouvert (PGO) de 2016, afin de favoriser la transparence démocratique et le partage des informations, le site du programme Entrepreneurs d’intérêt général ouvre son code source afin de le rendre accessible au plus grand nombre. 
+Dans un contexte d’engagement de l’Etat en faveur de l’ouverture des données depuis le Partenariat pour le gouvernement ouvert (PGO) de 2016, afin de favoriser la transparence démocratique et le partage des informations, le site du programme Entrepreneur(e)s d’intérêt général ouvre son code source afin de le rendre accessible au plus grand nombre. 
 
 
 ## Fonctionnement général

@@ -11,7 +11,7 @@ date: 2019-05-20T00:00:00.000Z
 visible: true
 ---
 
-La pérennisation est un des enjeux principaux du programme Entrepreneurs d'Intérêt Général. **Comment s'assurer que les défis EIG perdurent au-delà des 10 mois du programme, tant du point de vue des solutions développées que des communautés formées ? Comment faire perdurer l'élan de transformation numérique impulsé par les EIG ? Et quel est le rôle des mentors dans cette pérennisation ?**
+La pérennisation est un des enjeux principaux du programme Entrepreneur(e)s d'Intérêt Général. **Comment s'assurer que les défis EIG perdurent au-delà des 10 mois du programme, tant du point de vue des solutions développées que des communautés formées ? Comment faire perdurer l'élan de transformation numérique impulsé par les EIG ? Et quel est le rôle des mentors dans cette pérennisation ?**
 
 Quatre mois après le début des défis de la promotion 3, nous avons exploré cette problématique avec les mentors des défis lors d'une session d'accompagnement le 18 avril 2019. Ce fut l'occasion de tirer profit des enseignements des promotions 1 et 2 et d'identifier les actions à mettre en oeuvre pour pérenniser les défis de la promotion 3.  
 

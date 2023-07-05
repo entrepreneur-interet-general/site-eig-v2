@@ -3,7 +3,7 @@ title: "Dans les coulisses du programme : rencontre avec les coachs EIG"
 author: Coraline Gillard
 date: 2022-09-02T13:56:29.096Z
 description: "Frédérique Doman et Thomas Parisot sont coachs pour le programme
-  Entrepreneurs d’intérêt général d’Etalab depuis l’été 2021. Respectivement
+  Entrepreneur(e)s d’intérêt général d’Etalab depuis l’été 2021. Respectivement
   designer et Product owner, iels nous partage leur expérience au sein d’Etalab
   et de la Direction Interministérielle du Numérique. De l’accompagnement de la
   promotion 5 des EIG à l’ingénierie du programme, retour sur douze mois au
@@ -18,7 +18,7 @@ visible: true
 ---
 ![](/img/thomas-et-fred.jpg)
 
-Frédérique Doman et Thomas Parisot sont coachs pour le programme [Entrepreneurs d’intérêt général](https://eig.etalab.gouv.fr/) d’Etalab depuis l’été 2021. Respectivement designer et Product Manager, iels nous partage leur expérience au sein d’Etalab et de la Direction Interministérielle du Numérique. De l’accompagnement de la promotion 5 des EIG à l’ingénierie du programme, retour sur douze mois au service de l’innovation publique. 
+Frédérique Doman et Thomas Parisot sont coachs pour le programme [Entrepreneur(e)s d’intérêt général](https://eig.etalab.gouv.fr/) d’Etalab depuis l’été 2021. Respectivement designer et Product Manager, iels nous partage leur expérience au sein d’Etalab et de la Direction Interministérielle du Numérique. De l’accompagnement de la promotion 5 des EIG à l’ingénierie du programme, retour sur douze mois au service de l’innovation publique. 
 
 ### Vous avez rejoint l'équipe du programme EIG l'an dernier en tant que coachs. Qu'est-ce qui vous avait motivé(e)s à postuler ?
 

@@ -1,6 +1,6 @@
 ---
 author: Antoine Augusti, EIG Link
-description: "Au quotidien, l’équipe de coordination du programme Entrepreneurs d'Intérêt Général échange avec une multitude d'acteurs de la communauté du numérique d'intérêt général. Aujourd'hui, nous sommes fiers d'annoncer un partenariat avec l'association Latitudes"
+description: "Au quotidien, l’équipe de coordination du programme Entrepreneur(e)s d'Intérêt Général échange avec une multitude d'acteurs de la communauté du numérique d'intérêt général. Aujourd'hui, nous sommes fiers d'annoncer un partenariat avec l'association Latitudes"
 image: img/partenariat-latitudes.jpg
 categories:
 - Collectif
@@ -11,7 +11,7 @@ date: 2019-12-16T00:00:00.000Z
 visible: true
 ---
 
-Le programme Entrepreneurs d'Intérêt Général  intègre pendant quelques mois des profils numériques d'exception dans les administrations pour relever des défis d'amélioration du service public à l'aide du numérique et des données. 
+Le programme Entrepreneur(e)s d'Intérêt Général  intègre pendant quelques mois des profils numériques d'exception dans les administrations pour relever des défis d'amélioration du service public à l'aide du numérique et des données. 
 
 Au quotidien, l’équipe de coordination échange avec une multitude d'acteurs de la communauté du numérique d'intérêt général. Aujourd'hui, nous sommes fiers d'annoncer un partenariat avec l’un d’entre eux, [l'association Latitudes](https://www.latitudes.cc).
 
@@ -45,10 +45,10 @@ _3. Proposer un accompagnement méthodologique_
 Le programme EIG et Latitudes sont amenés à sélectionner des projets et identifier des experts pour réaliser ces projets dans le cadre de leurs missions respectives. En concluant cette convention, ils s’engagent à :
 
 
-*   sélectionner et cadrer les projets dans le cadre de l'appel à projets du programme Entrepreneurs d'Intérêt Général&nbsp;;
+*   sélectionner et cadrer les projets dans le cadre de l'appel à projets du programme Entrepreneur(e)s d'Intérêt Général&nbsp;;
 *   ouvrir les appels à projets de Latitudes aux porteurs de projets du programme EIG&nbsp;;
 *   partager les méthodes d’animation de communauté et de formation dans le domaine de l’innovation publique et du numérique.
 
-Nous espérons que ce partenariat permettra de resserrer les liens entre les filières numériques de l'enseignement supérieur et l'administration et de multiplier, à terme, les parcours de profils techniques au sein de l’administration. Nous espérons montrer que ce genre de partenariat peut être utile pour des structures plus grandes que le programme Entrepreneurs d’Intérêt Général comme Etalab ou encore la DINUM.
+Nous espérons que ce partenariat permettra de resserrer les liens entre les filières numériques de l'enseignement supérieur et l'administration et de multiplier, à terme, les parcours de profils techniques au sein de l’administration. Nous espérons montrer que ce genre de partenariat peut être utile pour des structures plus grandes que le programme Entrepreneur(e)s d’Intérêt Général comme Etalab ou encore la DINUM.
 
 Nous vous tiendrons au courant des évolutions de ce partenariat.

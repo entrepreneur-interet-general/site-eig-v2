@@ -1,7 +1,7 @@
 ---
 numbers:
   - num: "206"
-    title: Entrepreneurs d’intérêt général
+    title: Entrepreneur(e)s d’intérêt général
     btnTitle: Découvrir les talents
     btnUrl: /talents
   - num: "101"
@@ -80,7 +80,7 @@ url: /programme
 image: img/bootcamp9_auto_x2-1-.jpg
 title: Programme
 desc: >-
-  Le programme Entrepreneurs d’intérêt général permet à des talents du numérique
+  Le programme Entrepreneur(e)s d’intérêt général permet à des talents du numérique
   d'intégrer des administrations, pour relever en 10 mois des défis qui
   améliorent le service public.
 

@@ -1,6 +1,6 @@
 ---
 author: Laure Casellas, équipe EIG
-description: "Chaque année, l'équipe du programme Entrepreneurs d'Intérêt Général part à la recherche de défis d'amélioration du service public à l'aide du numérique, portés par des administrations. Pour la première fois cette année, le jury de sélection des défis s'est tenu à distance. Retour sur la préparation du jury, avec quelques conseils tirés de cette expérience."
+description: "Chaque année, l'équipe du programme Entrepreneur(e)s d'Intérêt Général part à la recherche de défis d'amélioration du service public à l'aide du numérique, portés par des administrations. Pour la première fois cette année, le jury de sélection des défis s'est tenu à distance. Retour sur la préparation du jury, avec quelques conseils tirés de cette expérience."
 image: /img/photo_jury_twitter_EIG4.png
 categories:
 - Méthode
@@ -11,7 +11,7 @@ date: 2020-04-01T00:00:00.000Z
 visible: true
 ---
 
-Chaque année, le programme Entrepreneurs d'Intérêt Général (EIG) part à la recherche de défis d'amélioration du service public à l'aide du numérique, portés par des administrations. Une fois les défis sélectionnés, le programme aide les administrations à recruter des spécialistes en data science, développement ou design pour les relever. Ces spécialistes constituent alors une nouvelle promotion EIG. 
+Chaque année, le programme Entrepreneur(e)s d'Intérêt Général (EIG) part à la recherche de défis d'amélioration du service public à l'aide du numérique, portés par des administrations. Une fois les défis sélectionnés, le programme aide les administrations à recruter des spécialistes en data science, développement ou design pour les relever. Ces spécialistes constituent alors une nouvelle promotion EIG. 
 
 La sélection des défis se fait en deux étapes :
 

@@ -11,11 +11,11 @@ date: 2019-05-27T00:00:00.000Z
 visible: true
 ---
 
-Les 16 et 17 mai 2019, les entrepreneurs d'intérêt général (EIG) se sont retrouvés pour le premier séminaire « hors-les-murs » de l'année. Fort du succès de ce [format que nous avons testé l’année dernière](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/09/24/retrospective-defis-eig2.html), nous avons reconduit l’expérience cette année. Ce premier séminaire à mi-parcours avait pour objectif de donner un coup d'accélérateur aux défis et de commencer à réfléchir à leur pérennisation. 
+Les 16 et 17 mai 2019, les entrepreneur(e)s d'intérêt général (EIG) se sont retrouvés pour le premier séminaire « hors-les-murs » de l'année. Fort du succès de ce [format que nous avons testé l’année dernière](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2018/09/24/retrospective-defis-eig2.html), nous avons reconduit l’expérience cette année. Ce premier séminaire à mi-parcours avait pour objectif de donner un coup d'accélérateur aux défis et de commencer à réfléchir à leur pérennisation. 
 
 Pourquoi sortir les EIG de leurs administrations pendant deux jours et les réunir au vert ? Comment organiser des temps de travail efficaces pour 35 personnes aux spécialités diverses et qui travaillent sur 15 défis différents ? Voici notre retour d'expérience.
 
-![La promotion 3 du programme Entrepreneurs d'Intérêt Général pose à l'extérieur.](/img/blog/seminaire-2019/promo-3.jpg) _La promotion 3 EIG lors du séminaire du 16 et 17 mai 2019_
+![La promotion 3 du programme Entrepreneur(e)s d'Intérêt Général pose à l'extérieur.](/img/blog/seminaire-2019/promo-3.jpg) _La promotion 3 EIG lors du séminaire du 16 et 17 mai 2019_
 
 ## Un programme co-construit en fonction des besoins des EIG 
 
@@ -36,7 +36,7 @@ De fait, ce séminaire a fait la part belle à la collaboration et permis d'init
 
 ![Trois hommes et une femme en extérieur sont assis autour d'une table et parlent en regardant un écran d'ordinateur.](/img/blog/seminaire-2019/designers.jpg) _[Hugo Stéphan](/communaute/2019/hugo-stephan.html), [Coline Lebaratoux](/communaute/2019/coline-lebaratoux.html), [Nikos Peteinatos](/communaute/2019/nikos-peteinatos.html) et [Jean-Baptiste Le Dévéhat](/communaute/2018/jean-baptiste-le-devehat.html), designers, partagent leurs méthodes de travail_
 
-**Comme nous l'avions souhaité, les entrepreneurs d'intérêt général ont profité de ce séminaire pour travailler plus étroitement entre défis**. On peut noter par exemple la collaboration entre [Polygraphe](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/polygraphe.html) et [ADLER](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/adler.html) sur la modélisation et les algorithmes de graphes, les échanges de [LexImpact](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/leximpact.html) et [Plume](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/plume.html) sur l'utilisation de la librairie JS React et la présentation de [CibNav](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cibnav.html) d'une approche basée sur les moteurs de règles. 
+**Comme nous l'avions souhaité, les entrepreneur(e)s d'intérêt général ont profité de ce séminaire pour travailler plus étroitement entre défis**. On peut noter par exemple la collaboration entre [Polygraphe](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/polygraphe.html) et [ADLER](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/adler.html) sur la modélisation et les algorithmes de graphes, les échanges de [LexImpact](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/leximpact.html) et [Plume](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/plume.html) sur l'utilisation de la librairie JS React et la présentation de [CibNav](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cibnav.html) d'une approche basée sur les moteurs de règles. 
 
 Parce que les défis qui disposent à la fois de compétences en _data science_, en développement et en design sont rares, **le séminaire « hors-les-murs » a aussi été l'occasion de faire bénéficier certains défis de compétences qu'ils n'ont pas**. Le défi ADLER a pu apporter de la compétence en _data science_ au défi [Karfu’R](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/karfur.html) et  les 5 designers se sont mobilisés pour revoir les interfaces de certains défis. Les [EIG Link](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/eiglink.html), anciens EIG 2, ont pu partager leur expérience et transmettre des bonnes pratiques sur le cadrage, les opportunités d'évolution et la pérennisation des défis. 
 
@@ -45,8 +45,8 @@ Parce que les défis qui disposent à la fois de compétences en _data science_,
 ![3 hommes travaillent ensemble autour d'un ordinateur.](/img/blog/seminaire-2019/moteurs-regles.jpg) _[Gabriel Bastard](/communaute/2019/gabriel-bastard.html), [Quentin Loridant](/communaute/2019/quentin-loridant.html) et [Antoine Augusti](/communaute/2018/antoine-augusti.html) échangent sur les moteurs de règles_
 
 
-## Souder un collectif d'entrepreneurs d'intérêt général
+## Souder un collectif d'entrepreneur(e)s d'intérêt général
 
 Les 32 EIG forment un collectif qui se réunit une fois par mois lors de sessions d'accompagnement en plénière. Par ailleurs, le programme met à leur disposition un tiers-lieu où ils peuvent se retrouver pendant la semaine. Ce séminaire « hors-les-murs » a été l'occasion de rassembler les 32 EIG pour un temps plus long et dans un cadre qui ménageait des temps plus informels.  
 
-Résultat : ils nous ont fait part de leur plaisir à pouvoir passer du temps entre collègues, à parler de leurs défis en profondeur, à faire connaissance et à tisser des liens plus étroits. Ce premier séminaire a donc été une excellente occasion de renforcer l'esprit de camaraderie de la promotion 3, nécessaire à une collaboration efficace entre les défis et à la constitution d'une communauté plus large d'entrepreneurs d'intérêt général.
+Résultat : ils nous ont fait part de leur plaisir à pouvoir passer du temps entre collègues, à parler de leurs défis en profondeur, à faire connaissance et à tisser des liens plus étroits. Ce premier séminaire a donc été une excellente occasion de renforcer l'esprit de camaraderie de la promotion 3, nécessaire à une collaboration efficace entre les défis et à la constitution d'une communauté plus large d'entrepreneur(e)s d'intérêt général.

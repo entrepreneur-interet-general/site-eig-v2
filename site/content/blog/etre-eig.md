@@ -1,12 +1,12 @@
 ---
 author: Sophie Miljkovic, équipe EIG
-description: "Chaque année, le programme Entrepreneurs d’Intérêt Général lance un appel à candidatures pour recruter des spécialistes du numérique qui améliorent le service public à l’aide du numérique et des données : des entrepreneurs d’intérêt général. Mais qu’est-ce que cela veut dire, concrètement, être EIG ?"
+description: "Chaque année, le programme Entrepreneur(e)s d’Intérêt Général lance un appel à candidatures pour recruter des spécialistes du numérique qui améliorent le service public à l’aide du numérique et des données : des entrepreneurs d’intérêt général. Mais qu’est-ce que cela veut dire, concrètement, être EIG ?"
 image: img/bootcamp6.jpg
 categories:
 - Recrutement
 - Témoignage
 - Collectif
-title: " Qui sont et que font les « entrepreneurs d’intérêt général » ?"
+title: " Qui sont et que font les « entrepreneur(e)s d’intérêt général » ?"
 date: 2020-05-25T00:00:00.000Z
 visible: true
 ---

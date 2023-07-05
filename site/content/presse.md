@@ -54,7 +54,7 @@ agents:
 
 **11 mars 2022**
 
-[Entrepreneurs d'intérêt général : des talents de la tech pour construire le service public de demain](https://www.journaldunet.com/solutions/dsi/1509937-entrepreneurs-d-interet-general-des-talents-de-la-tech-pour-construire-le-service-public-de-demain/)
+[Entrepreneur(e)s d'intérêt général : des talents de la tech pour construire le service public de demain](https://www.journaldunet.com/solutions/dsi/1509937-entrepreneurs-d-interet-general-des-talents-de-la-tech-pour-construire-le-service-public-de-demain/)
 
 **9 mars 2022**
 
@@ -66,7 +66,7 @@ agents:
 
 **25 janvier 2022**
 
-[Corine Waroquiers : “Le programme « Entrepreneurs d’intérêt général » est de plus en plus populaire auprès des administrations”](https://acteurspublics.fr/articles/corine-waroquiers-le-programme-entrepreneurs-dinteret-general-est-de-plus-en-plus-populaire-aupres-des-administrations)
+[Corine Waroquiers : “Le programme « Entrepreneur(e)s d’intérêt général » est de plus en plus populaire auprès des administrations”](https://acteurspublics.fr/articles/corine-waroquiers-le-programme-entrepreneurs-dinteret-general-est-de-plus-en-plus-populaire-aupres-des-administrations)
 
 **24 janvier 2022**
 
@@ -92,7 +92,7 @@ agents:
 
 **3 février 2021** 
 
-[La cinquième promotion des “Entrepreneurs d’intérêt général” s’ouvre à de nouveaux profils](https://www.acteurspublics.fr/articles/la-cinquieme-promotion-des-entrepreneurs-dinteret-general-souvre-a-de-nouveaux-profils)
+[La cinquième promotion des “Entrepreneur(e)s d’intérêt général” s’ouvre à de nouveaux profils](https://www.acteurspublics.fr/articles/la-cinquieme-promotion-des-entrepreneurs-dinteret-general-souvre-a-de-nouveaux-profils)
 
 **3 mars 2021** 
 
@@ -100,15 +100,15 @@ agents:
 
 **28 mars 2021** 
 
-[Entrepreneurs d’intérêt général : comment entreprendre pour améliorer le service public ?](https://www.forbes.fr/entrepreneurs/entrepreneurs-dinteret-general-comment-entreprendre-pour-ameliorer-le-service-public/)
+[Entrepreneur(e)s d’intérêt général : comment entreprendre pour améliorer le service public ?](https://www.forbes.fr/entrepreneurs/entrepreneurs-dinteret-general-comment-entreprendre-pour-ameliorer-le-service-public/)
 
 **8 novembre 2020** 
 
-[Le programme “Entrepreneurs d’intérêt général” consolidé au sein du budget 2020](https://www.acteurspublics.fr/articles/le-programme-entrepreneurs-dinteret-general-consolide-au-sein-du-budget-2020)
+[Le programme “Entrepreneur(e)s d’intérêt général” consolidé au sein du budget 2020](https://www.acteurspublics.fr/articles/le-programme-entrepreneurs-dinteret-general-consolide-au-sein-du-budget-2020)
 
 **11 août 2020** 
 
-[Le programme "Entrepreneurs d’intérêt général" sélectionne 41 candidats pour sa quatrième promotion](https://www.aefinfo.fr/depeche/632961)
+[Le programme "Entrepreneur(e)s d’intérêt général" sélectionne 41 candidats pour sa quatrième promotion](https://www.aefinfo.fr/depeche/632961)
 
 **9 avril 2020** 
 

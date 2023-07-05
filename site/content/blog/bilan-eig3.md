@@ -12,7 +12,7 @@ date: 2020-01-17T00:00:00.000Z
 visible: true
 ---
 
-Le 15 novembre 2019, après 10 mois de travail intense et près de 18 mois après le lancement de l’appel à projets pour constituer la troisième promotion des entrepreneurs d’intérêt général, celle-ci s’est officiellement achevée. [C’est avec fierté que nous avons clôturé cette promotion lors d’un événement de restitution publique, le 12 novembre 2019](https://www.etalab.gouv.fr/quels-resultats-pour-la-promotion-3-du-programme-entrepreneurs-dinteret-general), à l’occasion duquel chaque défi a pu présenter ses résultats.
+Le 15 novembre 2019, après 10 mois de travail intense et près de 18 mois après le lancement de l’appel à projets pour constituer la troisième promotion des entrepreneur(e)s d’intérêt général, celle-ci s’est officiellement achevée. [C’est avec fierté que nous avons clôturé cette promotion lors d’un événement de restitution publique, le 12 novembre 2019](https://www.etalab.gouv.fr/quels-resultats-pour-la-promotion-3-du-programme-entrepreneurs-dinteret-general), à l’occasion duquel chaque défi a pu présenter ses résultats.
 
 **Nous souhaitions également évaluer les résultats collectifs de la promotion au regard des deux objectifs, ambitieux, du programme** : produire des outils utiles, ouverts et pérennes au sein des administrations, et contribuer à la transformation numérique de l’État et à l’internalisation des compétences numériques.
 
@@ -90,7 +90,7 @@ Dans l’ensemble, les équipes ont trouvé que les projets étaient plutôt bie
 
 **2.Renforcer les liens avec la communauté des anciens EIG.**
 
-Les EIG 3 ont regretté d'avoir eu peu de liens avec les EIG des promotions précédentes. Ainsi, nous réfléchissons à des opportunités d’interactions inter-promotions. Parmi elles, on trouve la création par quelques alumni EIG de l’association LEON (les entrepreneurs ouverts du numérique), vouée à rassembler les anciens EIG et mentors.
+Les EIG 3 ont regretté d'avoir eu peu de liens avec les EIG des promotions précédentes. Ainsi, nous réfléchissons à des opportunités d’interactions inter-promotions. Parmi elles, on trouve la création par quelques alumni EIG de l’association LEON (les entrepreneur(e)s ouverts du numérique), vouée à rassembler les anciens EIG et mentors.
 
 **3.Continuer d’adapter le programme d’accompagnement aux spécificités de chaque promotion.**
 
@@ -111,7 +111,7 @@ Le programme est maintenant bien installé dans le paysage de l’innovation pub
 
 ## Et maintenant ?
 
-En 2020, le programme Entrepreneurs d’Intérêt Général continue ! Il bénéficie d’un financement _via_ la loi de finances 2020. Deux objectifs dans ce cadre : recruter 50 EIG en 2020 (pour 20 à 25 projets), et en pérenniser une partie dans l’administration.
+En 2020, le programme Entrepreneur(e)s d’Intérêt Général continue ! Il bénéficie d’un financement _via_ la loi de finances 2020. Deux objectifs dans ce cadre : recruter 50 EIG en 2020 (pour 20 à 25 projets), et en pérenniser une partie dans l’administration.
 
 Dès début 2020, nous nous attelons à la constitution d’une ambitieuse promotion 4, qui commencera en septembre 2020.
 

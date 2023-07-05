@@ -18,7 +18,7 @@ dans le programme._
 _Tiphaine Phe-Neau, Entrepreneure d'intérêt général pour le défi Prévisecours_
 
 Pour être honnête, il y a 1000 raisons pour s’engager dans le
-programme Entrepreneur·e d’Intérêt Général et si vous interrogez
+programme Entrepreneur(e)s d’Intérêt Général et si vous interrogez
 chacun des entrepreneurs vous obtiendrez chaque fois une réponse
 différente. Dans cet article, je vais vous évoquer les raisons qui
 m’ont poussée à me lancer ou tout du moins mon cheminement de pensée.

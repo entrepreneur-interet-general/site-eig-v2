@@ -1,6 +1,6 @@
 ---
 author: Mathilde Bras, équipe EIG
-description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement des entrepreneurs d’intérêt général. En présence des mentors des défis, nous avons travaillé sur 3 ateliers, orientés « utilisateurs » : recherche produit et utilisateurs, design et conception du produit avec ses utilisateurs, ouverture du code source.'
+description: 'Le 22 mars s’est tenue la deuxième session d’accompagnement des entrepreneur(e)s d’intérêt général. En présence des mentors des défis, nous avons travaillé sur 3 ateliers, orientés « utilisateurs » : recherche produit et utilisateurs, design et conception du produit avec ses utilisateurs, ouverture du code source.'
 image: img/ex-empathy-map.jpg
 categories:
 - Accompagnement
@@ -21,7 +21,7 @@ Product Research*, animé par Quentin Decock et Elise Lalique.
 c’est dans cet esprit que les mentors du programme EIG ont imaginé 13
 défis de transformation numérique.
 
-En arrivant dans leurs ministères d’accueil, les entrepreneurs
+En arrivant dans leurs ministères d’accueil, les entrepreneur(e)s
 d’intérêt général s’immergent dans la complexité administrative,
 découvrent les subtilités des organigrammes, et se déplacent sur le
 terrain pour constater la diversité des métiers du service public
