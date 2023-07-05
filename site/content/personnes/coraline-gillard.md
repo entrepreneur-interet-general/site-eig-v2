@@ -1,9 +1,9 @@
 ---
 title: Coraline Gillard
 job: Chargée de mission
-role: agent-programme
+role: agent-ecosysteme
 expertises:
-  - Data engineering
+  - "Accompagnement "
 image: img/coraline-gillard-2-.jfif
 linkedin: linkedin.com/in/coraline-gillard
 ---
