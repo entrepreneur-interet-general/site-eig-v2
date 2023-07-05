@@ -6,6 +6,7 @@ who: Direction interministérielle du numérique (DINUM)
 place: ""
 themes:
   - Innovation
+  - Accompagnement
 promos:
   - Promotion 6
 town: Paris (75)
