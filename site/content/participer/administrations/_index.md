@@ -139,6 +139,6 @@ wait:
   title: |-
     L’appel à candidatures pour notre
     promotion 6 est désormais fermé.
-  desc: Découvrez les [101 défis](https://eig.etalab.gouv.fr/defis/) relevés par
-    les talents du numérique dans les administrations lauréates du programme.
+  desc: Cliquer [ICI](https://eig.etalab.gouv.fr/defis/) pour découvrir les 101
+    défis EIG
 ---
