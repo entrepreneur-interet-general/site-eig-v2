@@ -9,13 +9,13 @@ url: /plan-du-site
 * ## [Accueil](https://eig.etalab.gouv.fr/)
 * ## [Programme](https://eig.etalab.gouv.fr/programme/)
 * ## [Défis](https://eig.etalab.gouv.fr/defis/)
-* ## Participants
+* ## Participant(e)s
 
   * ### [Talents EIG](https://eig.etalab.gouv.fr/talents/)
-  * ### [Agents publics](https://eig.etalab.gouv.fr/agents/)
+  * ### [Agent(e)s de service public](https://eig.etalab.gouv.fr/agents/)
 * ## [Équipe](https://eig.etalab.gouv.fr/equipe/)
 * ## [Participer](https://eig.etalab.gouv.fr/participer/)
-* ### [Candidats](https://eig.etalab.gouv.fr/participer/candidats/)
+* ### [Candidat(e)s](https://eig.etalab.gouv.fr/participer/candidats/)
 
   * ### [Administrations](https://eig.etalab.gouv.fr/participer/administrations/)
 
