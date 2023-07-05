@@ -1,6 +1,5 @@
 ---
-title: "Talents du numérique et agents publics : préparez-vous à rejoindre notre
-  prochaine promotion ! "
+title: Découvrez les modalités de candidature au programme EIG
 layout: participate
 menu: participate
 ---
