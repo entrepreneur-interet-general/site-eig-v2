@@ -15,73 +15,68 @@ head:
     title: Cahier des charges
     url: img/aap-eig6-cahier-des-charges.pdf
 program: >-
-  ## L'APPEL A PROJET 2022 EST FERMÉ
-
-  Le sixième appel à projets des Entrepreneurs d’intérêt général est fermé. Cliquez [ici](https://eig.etalab.gouv.fr/defis) pour découvrir les défis sélectionnés.
-
-   Pour en savoir plus :
-
-  * Découvrez les [projets réalisés par notre dernière promotion](https://www.dailymotion.com/video/x82e13y)
-
-  * Consultez la [plaquette de l’appel à projets 2022](https://eig.etalab.gouv.fr/img/aap-eig6_plaquette.pdf)
-
-  * Accédez à [notre foire aux questions](https://eig.etalab.gouv.fr/participer/administrations/faq/)
+  ## 5 profils disponibles
 
 
-  Vous avez déjà un projet ou souhaitez explorer des idées avec notre équipe :
+  Nous sélectionnons et accompagnons des talents recrutés par les administrations lauréates du programme, pour relever des défis d'intérêt général. Cinq profils numériques sont proposés :
+
+  * designer
+
+  * développeur et développeuse
+
+  * ingénieur(e) de la donnée (ou "data engineer")
+
+  * ingénieur(e) des sciences de la donnée (ou "data scientist")
+
+  * juriste du numérique
 
 
-  * Contactez-nous : [eig@data.gouv.fr](eig@data.gouv.fr) 
-
-  * Inscrivez-vous à [nos webinaires d'information](https://eig.etalab.gouv.fr/participer/administrations/proposer/)
+  ## Un soutien à 5 dimensions
 
 
-  ## Ce que le programme vous propose
+  #### Financement
 
+  Participation de 30% au salaire des EIG recruté(e)s par les administrations lauréates, sous conditions
 
-  Nous recrutons des talents - ou "EIG" - pour relever des défis numériques dans votre administration, pour une période de 10 mois.
+  * Transfert budgétaire en crédit 2 d'un montant de 20000 euros par EIG
 
-
-  ## Un soutien à 3 niveaux
-
-
-  ![Mentions "recrutement", "financement" et "aide à l'innovation"](img/admin_soutienx3_vecto.svg "Un soutien à 3 niveaux")
+  * Renouvellement possible sur dossier en cas de prolongation de 6 mois
 
 
   #### Recrutement
 
+  Recrutement accéléré d’agent(e)s contractuel(le)s spécialistes du numérique
 
-  Le programme offre une procédure de recrutement accélérée, de bout en bout, en sourçant et en sélectionnant des talents aux compétences rares - des "EIG" :
+  * Initiation des agent(e)s de service public aux métiers du numérique
 
-
-  * développeurs / développeuses
-
-  * data scientists
-
-  * data engineers
-
-  * designers
-
-  * juristes du numérique
+  * Formation des jurys aux bonnes pratiques de recrutement inclusif
 
 
-  #### Co-financement
+  #### Transformation
+
+  Accompagnement à la conduite du changement
+
+  * Coaching des porteurs et porteuses de projet
+
+  * Séminaires bimestriels et rapports d'évaluation
 
 
-  Nous participons aux salaires des talents à hauteur de 30 %. Ils sont rémunérés 3 500 € ou 4 000 € net par mois, avec une possibilité de co-financement de 20.000 euros par profil recruté (le programme est ouvert à toute administration, mais des conditions spécifiques s’appliquent pour le cofinancement, voir le cahier des charges de l'appel à projets).
+  #### Innovation
+
+  Accompagnement à l'expérimentation de services numériques 
+
+  * Coaching des talents du numérique
+
+  * Facilitation des démarches d’émergence et d’entrepreneuriat
 
 
-  #### Aide à l'innovation
+  #### Écosystème
 
+  Soutien interministériel à l'innovation publique
 
-  Pour vous soutenir dans le pilotage de talents et de projets avec une compétence entrepreneuriale, trois dispositifs vous sont proposés :
+  * Animation d’une communauté d’entraide entre alumni et EIG
 
-
-  * des séminaires collectifs
-
-  * un coaching par équipe
-
-  * des apprentissages en pair-à-pair
+  * Mentorat par des expert(e)s du numérique public
 criteria:
   title: "5 critères de sélection "
   desc: >-
@@ -139,6 +134,7 @@ wait:
   title: |-
     L’appel à candidatures pour notre
     promotion 6 est désormais fermé.
-  desc: Cliquer [ICI](https://eig.etalab.gouv.fr/defis/) pour découvrir les défis
-    de la promotion 5
+  desc: Découvrez les [101 défis d'intérêt
+    général](https://eig.etalab.gouv.fr/defis/) relevés par les talents du
+    numérique dans les administrations lauréates du programme.
 ---
