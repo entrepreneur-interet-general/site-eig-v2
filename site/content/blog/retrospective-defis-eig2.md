@@ -1,6 +1,6 @@
 ---
 author: Mathilde Bras
-description: Les 6 et 7 septembre 2018, la promotion 2 des entrepreneurs d'intérêt général prenait du temps "hors les murs" pour faire le bilan de l'année et imaginer le futur du programme et de leurs projets. Un atelier "Réussites/Enseignements" a été organisé. Restitutions (en images).
+description: Les 6 et 7 septembre 2018, la promotion 2 des entrepreneur(e)s d'intérêt général prenait du temps "hors les murs" pour faire le bilan de l'année et imaginer le futur du programme et de leurs projets. Un atelier "Réussites/Enseignements" a été organisé. Restitutions (en images).
 image: img/win-fails-tableau.jpg
 categories:
 - Accompagnement
@@ -10,7 +10,7 @@ date: 2018-09-24T00:00:00.000Z
 visible: true
 ---
 
-Pendant 10 mois, les entrepreneurs d'intérêt général travaillent à la
+Pendant 10 mois, les entrepreneur(e)s d'intérêt général travaillent à la
 résolution d'un défi technique au sein d'une administration. Bien
 souvent, leur mission va au-delà du seul défi et s'inscrit plus
 généralement dans l'accompagnement à la transformation numérique de
@@ -25,7 +25,7 @@ aventures de médiateurs.
 ## Rapport d'étonnement : il existe, dans l'administration, un véritable espace pour l'expérimentation et la prise d'initiatives, et il faut s'en saisir et l'organiser !
 
 En arrivant dans le monde du service public, la plupart des
-entrepreneurs d'intérêt général ne connaissaient ni les codes de
+entrepreneur(e)s d'intérêt général ne connaissaient ni les codes de
 l'administration ni le fonctionnement interne des services. Travailler
 sur un défi précis est l'opportunité d'accélérer cet apprentissage de
 l'État : il faut frapper à des portes, expliquer son projet et mettre
@@ -78,7 +78,7 @@ mentors, les EIG se transforment en de véritables **médiateurs**.
 ![Tableau wins-fails](/img/blog/win-fails-tableau.JPG)
 _Restitutions de l'atelier Rétrospective EIG2_
 
-En tant qu'entrepreneurs, les EIG ont aussi dû se mettre eux-mêmes
+En tant qu'entrepreneur(e)s, les EIG ont aussi dû se mettre eux-mêmes
 dans une posture _d'apprentissage et de recherche_ :
 
 * sur les métiers de l'administration : archivistes, pompiers,

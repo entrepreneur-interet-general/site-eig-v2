@@ -35,7 +35,7 @@ Le label **Agriculture biologique** est un label de qualité public fondé sur
 > * Lors de la visite de contrôle, l’inspecteur d’un organisme de certification dispose donc du parcellaire complet de l’agriculteur et peut le valider ou faire remonter toute incohérence, faisant gagner du temps à tout le monde : l’agriculteur n’a plus besoin de fournir lui-même ces données.
 > * CartoBIO permet de constituer une base de données géographiques recensant toutes les parcelles des agriculteurs engagés en agriculture biologique, et de la diffuser par la suite.
 
-L’application a été développée depuis Janvier 2019 au coeur de l’Agence Bio dans le cadre du programme Entrepreneurs d’Intérêt Général, avec l’appui de l’IGN sur certaines parties techniques. Les fonctionnalités clés ont été conçues avec les organismes certificateurs et les agriculteurs, au cours de réunions et de visites sur le terrain.
+L’application a été développée depuis Janvier 2019 au coeur de l’Agence Bio dans le cadre du programme Entrepreneur(e)s d’Intérêt Général, avec l’appui de l’IGN sur certaines parties techniques. Les fonctionnalités clés ont été conçues avec les organismes certificateurs et les agriculteurs, au cours de réunions et de visites sur le terrain.
 
 ## Rétrospective
 

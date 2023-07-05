@@ -1,6 +1,6 @@
 ---
 author: Sophie Miljkovic, équipe EIG
-description: "Chaque année, le programme Entrepreneur(e)s d’Intérêt Général lance un appel à candidatures pour recruter des spécialistes du numérique qui améliorent le service public à l’aide du numérique et des données : des entrepreneurs d’intérêt général. Mais qu’est-ce que cela veut dire, concrètement, être EIG ?"
+description: "Chaque année, le programme Entrepreneur(e)s d’Intérêt Général lance un appel à candidatures pour recruter des spécialistes du numérique qui améliorent le service public à l’aide du numérique et des données : des entrepreneur(e)s d’intérêt général. Mais qu’est-ce que cela veut dire, concrètement, être EIG ?"
 image: img/bootcamp6.jpg
 categories:
 - Recrutement
@@ -11,7 +11,7 @@ date: 2020-05-25T00:00:00.000Z
 visible: true
 ---
 
-Chaque année, le programme Entrepreneurs d’Intérêt Général lance un appel à candidatures pour recruter des spécialistes du numérique qui améliorent le service public à l’aide du numérique et des données. Une fois sélectionnés, ces spécialistes deviennent entrepreneurs et entrepreneuses d’intérêt général. Mais qu’est-ce que cela veut dire, concrètement ? 
+Chaque année, le programme Entrepreneur(e)s d’Intérêt Général lance un appel à candidatures pour recruter des spécialistes du numérique qui améliorent le service public à l’aide du numérique et des données. Une fois sélectionnés, ces spécialistes deviennent entrepreneurs et entrepreneuses d’intérêt général. Mais qu’est-ce que cela veut dire, concrètement ? 
 
 Voici tout ce que vous devez savoir sur le statut des EIG et la posture entrepreneuriale qui leur est demandée. Et pour plus de concret, **découvrez les retours d’expériences d’anciennes et anciens EIG** !
 
@@ -35,7 +35,7 @@ _Pour plus de détails sur les critères d’éligibilité, consultez le [règle
 
 ## Une posture entrepreneuriale à assumer
 
-« Entrepreneurs » ne fait pas référence à un statut, mais à une posture que les EIG adoptent : entreprendre dans l’administration. 
+« Entrepreneur(e)s » ne fait pas référence à un statut, mais à une posture que les EIG adoptent : entreprendre dans l’administration. 
 
 ### Explorer et faire des propositions
 	

@@ -8,7 +8,7 @@ image: img/corine-waroquiers.png
 linkedin: https://www.linkedin.com/in/corinewaroquiers
 weight: 1
 ---
-Corine Waroquiers pilote deux programmes d'innovation chez Etalab : Entrepreneurs d'intérêt général et l'Accélérateur d'initiatives citoyennes.  
+Corine Waroquiers pilote deux programmes d'innovation chez Etalab : Entrepreneur(e)s d'intérêt général et l'Accélérateur d'initiatives citoyennes.  
 
 Avec les équipes de ces programmes, elle accompagne le développement de projets innovants à travers l’administration centrale ainsi que des initiatives citoyennes en partenariat avec des collectivités territoriales.   
 

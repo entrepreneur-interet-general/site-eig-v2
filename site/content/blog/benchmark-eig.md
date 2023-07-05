@@ -1,6 +1,6 @@
 ---
 author: Guénolé Carré, équipe EIG
-description: 'En France comme ailleurs, de nombreuses administrations font face à une même problématique : le recrutement de compétences numériques. Pour y parvenir, différentes initiatives se mettent en place. Nous avons souhaité comparer celles-ci au programme Entrepreneurs d’Intérêt Général (EIG), afin de mieux comprendre notre environnement et pour constater nos éventuels points de convergence.'
+description: 'En France comme ailleurs, de nombreuses administrations font face à une même problématique : le recrutement de compétences numériques. Pour y parvenir, différentes initiatives se mettent en place. Nous avons souhaité comparer celles-ci au programme Entrepreneur(e)s d’Intérêt Général (EIG), afin de mieux comprendre notre environnement et pour constater nos éventuels points de convergence.'
 image: img/initiatives.PNG
 categories:
 - Écosystème
@@ -10,11 +10,11 @@ date: 2019-07-10T00:00:00.000Z
 visible: true
 ---
 
-## Tour d'horizon international d'initiatives similaires au programme Entrepreneurs d'Intérêt Général
+## Tour d'horizon international d'initiatives similaires au programme Entrepreneur(e)s d'Intérêt Général
 
-**Qu'est-ce que le programme Entrepreneurs d'Intérêt Général ?**
+**Qu'est-ce que le programme Entrepreneur(e)s d'Intérêt Général ?**
 
-Le programme Entrepreneurs d'Intérêt Général permet d'intégrer pour 10 mois des profils numériques d'exception dans les administrations pour relever des défis d'amélioration du service public à l'aide du numérique et des données. Ces entrepreneurs sont épaulés par des mentors qui participent à leur bonne intégration au sein des administrations, et forment une promotion accompagnée toute l'année par une équipe d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous), au sein de la [direction interministérielle du numérique](https://numerique.gouv.fr).
+Le programme Entrepreneur(e)s d'Intérêt Général permet d'intégrer pour 10 mois des profils numériques d'exception dans les administrations pour relever des défis d'amélioration du service public à l'aide du numérique et des données. Ces entrepreneur(e)s sont épaulés par des mentors qui participent à leur bonne intégration au sein des administrations, et forment une promotion accompagnée toute l'année par une équipe d'[Etalab](https://www.etalab.gouv.fr/qui-sommes-nous), au sein de la [direction interministérielle du numérique](https://numerique.gouv.fr).
 
 **Quels sont les objectifs de cette démarche ?**
 
@@ -43,7 +43,7 @@ Pour améliorer leur action dans le domaine du numérique, de nombreuses adminis
 
 Pour y répondre, différents formats innovants sont testés : la création et l’animation de communautés qui développent des outils ([Team Digitale Italy](https://teamdigitale.governo.it/en/mission)), le financement de projets *open source* par les pouvoirs publics ([Prototype Fund](https://prototypefund.de/en/about/)), ainsi que le recrutement de profils aux compétences numériques dans l’administration.
 
-Ces recrutements prennent différentes formes : au sein du réseau international *[Code For](https://codeforall.org/)*, des *fellows*, ou recrues, sont employés par des associations et placés dans des administrations. A l’inverse, certaines administrations recrutent elles-mêmes,  comme c’est le cas pour le programme américain « [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) » (PIF) ou le programme Entrepreneurs d’Intérêt Général.
+Ces recrutements prennent différentes formes : au sein du réseau international *[Code For](https://codeforall.org/)*, des *fellows*, ou recrues, sont employés par des associations et placés dans des administrations. A l’inverse, certaines administrations recrutent elles-mêmes,  comme c’est le cas pour le programme américain « [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) » (PIF) ou le programme Entrepreneur(e)s d’Intérêt Général.
 Les financements peuvent provenir de fonds publics mais aussi de fonds privés qui soutiennent ces initiatives via des partenariats, comme pour c'est le cas pour [Code For America](https://www.codeforamerica.org/our-supporters).
 
 **Ces programmes font face à des problématiques communes, comme l'attractivité et la capacité à mesurer leurs résultats**

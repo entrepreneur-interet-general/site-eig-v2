@@ -12,7 +12,7 @@ date: 2019-09-12T00:00:00.000Z
 visible: true
 ---
 
-Le programme Entrepreneur(e)s d'Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneurs d'intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Ils interviennent dans les domaines du développement, du design et de la datascience. Avec les agents publics de leurs administrations d’accueil, ils ont 10 mois pour relever un défi d'amélioration du service public à l'aide du numérique et des données. Ces défis suivent une démarche de travail ouverte et transparente, notamment par la publication de productions en open source et en open data.
+Le programme Entrepreneur(e)s d'Intérêt Général a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneur(e)s d'intérêt général sont réparti(e)s en binômes ou trinômes pluridisciplinaires. Ils interviennent dans les domaines du développement, du design et de la datascience. Avec les agents publics de leurs administrations d’accueil, ils ont 10 mois pour relever un défi d'amélioration du service public à l'aide du numérique et des données. Ces défis suivent une démarche de travail ouverte et transparente, notamment par la publication de productions en open source et en open data.
 
 Le programme comporte actuellement une trentaine d'entrepreneur(e)s par promotion, travaillant au sein de diverses administrations comme le ministère de la Transition écologique et solidaire, la Cour des comptes ou l'agence Bio.
 
@@ -25,7 +25,7 @@ Nous détaillons dans cet article quels sont les objectifs de notre documentatio
 
 Notre programme comporte plus de trente personnes qui travaillent dans des administrations dans plusieurs lieux géographiques. Chaque promotion a une courte durée de vie (dix mois), ce qui implique qu'il est nécessaire d'expliquer clairement les processus et les ressources à disposition lors de la phase d'accueil et d'offrir un moyen de pouvoir se rafraîchir la mémoire plus tard.
 
-Les utilisateurs cibles de notre documentation sont les entrepreneur(e)s d'intérêt général, leurs mentors et l'équipe de coordination au sein d'Etalab. Les entrepreneurs ont besoin de comprendre comment fonctionne le programme et d'accéder à des ressources pour mener à bien leurs défis dans leurs administrations.
+Les utilisateurs cibles de notre documentation sont les entrepreneur(e)s d'intérêt général, leurs mentors et l'équipe de coordination au sein d'Etalab. Les entrepreneur(e)s ont besoin de comprendre comment fonctionne le programme et d'accéder à des ressources pour mener à bien leurs défis dans leurs administrations.
 
 Pour répondre à ces besoins, notre documentation a été scindée en trois grandes parties. Voici quelques exemples de contenu que l'on peut retrouver :
 

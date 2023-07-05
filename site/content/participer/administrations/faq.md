@@ -4,7 +4,7 @@ layout: faq
 questions:
   - title: Comment fonctionne le programme EIG ?
     desc: >-
-      Le programme Entrepreneurs d’Intérêt Général fonctionne par appels à
+      Le programme Entrepreneur(e)s d’Intérêt Général fonctionne par appels à
       projets, en 3 étapes.
 
 
@@ -15,7 +15,7 @@ questions:
       * **Vous expérimentez** : créez et testez de nouveaux possibles avec vos profils du numérique et le soutien du programme (à partir du 12 septembre, pour 10 mois).
   - title: Quel soutien reçoivent les administrations ?
     desc: >-
-      Rejoindre le programme Entrepreneurs d’Intérêt Général, c’est recevoir un
+      Rejoindre le programme Entrepreneur(e)s d’Intérêt Général, c’est recevoir un
       soutien pluriel :
 
 
@@ -200,10 +200,10 @@ questions:
 
 
       Plus d’informations seront envoyées aux administrations présélectionnées.
-  - title: Quelle est la différence entre Entrepreneurs d'Intérêt Général (EIG) et
+  - title: Quelle est la différence entre Entrepreneur(e)s d'Intérêt Général (EIG) et
       Designers d'Intérêt Général (DIG) ?
     desc: "Le programme DIG (Designers d’Intérêt Général) n’existe plus : il a
-      fusionné avec le programme EIG (Entrepreneurs d’Intérêt Général) en 2020."
+      fusionné avec le programme EIG (Entrepreneur(e)s d’Intérêt Général) en 2020."
 contact: "**Vous n’avez pas trouvé de réponse à votre question ?**
   [Contactez-nous](eig@data.gouv.fr)"
 ---

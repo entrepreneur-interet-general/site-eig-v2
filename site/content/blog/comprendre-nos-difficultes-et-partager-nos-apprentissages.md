@@ -12,7 +12,7 @@ visible: true
 ---
  
 
-Le programme Entrepreneurs d'Intérêt Général ouvre l’administration à des data scientists, designers, développeuses et développeurs recrutés pour relever des défis d'amélioration du service public à l'aide du numérique et des données. En tant qu’entrepreneur(e)s d’intérêt général nous avons 10 mois pour résoudre un défi avec nos mentors et nos différentes parties prenantes.
+Le programme Entrepreneur(e)s d'Intérêt Général ouvre l’administration à des data scientists, designers, développeuses et développeurs recrutés pour relever des défis d'amélioration du service public à l'aide du numérique et des données. En tant qu’entrepreneur(e)s d’intérêt général nous avons 10 mois pour résoudre un défi avec nos mentors et nos différentes parties prenantes.
 
 Pour que tous les défis réussissent, le programme a mis en place différents temps de partage et de production. En septembre, nous avons ainsi tous participé à un séminaire qui nous a permis de faire le point sur les mois écoulés et d’envisager la suite des défis. 
 

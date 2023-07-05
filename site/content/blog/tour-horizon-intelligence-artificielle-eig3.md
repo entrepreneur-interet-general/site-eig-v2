@@ -1,6 +1,6 @@
 ---
 author: Antoine Augusti, EIG Link
-description: "Le programme Entrepreneurs d’Intérêt Général fait la part belle à la circulation des données et à leur exploitation. Pour la troisième promotion, 11 défis sur 15, portés par plusieurs administrations et portant sur des thématiques variées, expérimentent des techniques de pointe en intelligence artificielle. Nous vous présentons ici quelques cas d’usage de ces méthodes au sein de l’administration."
+description: "Le programme Entrepreneur(e)s d’Intérêt Général fait la part belle à la circulation des données et à leur exploitation. Pour la troisième promotion, 11 défis sur 15, portés par plusieurs administrations et portant sur des thématiques variées, expérimentent des techniques de pointe en intelligence artificielle. Nous vous présentons ici quelques cas d’usage de ces méthodes au sein de l’administration."
 image: img/seminaire-2019/moteurs-regles.jpg
 categories:
 - Datascience
@@ -11,7 +11,7 @@ date: 2019-08-21T00:00:00.000Z
 visible: true
 ---
 
-Le programme Entrepreneurs d’Intérêt Général fait la part belle à la circulation des données et à leur exploitation. Pour la troisième promotion, 11 défis sur 15, portés par plusieurs administrations et portant sur des thématiques variées, expérimentent des techniques de pointe en intelligence artificielle. Nous vous présentons ici quelques cas d’usage de ces méthodes au sein de l’administration.
+Le programme Entrepreneur(e)s d’Intérêt Général fait la part belle à la circulation des données et à leur exploitation. Pour la troisième promotion, 11 défis sur 15, portés par plusieurs administrations et portant sur des thématiques variées, expérimentent des techniques de pointe en intelligence artificielle. Nous vous présentons ici quelques cas d’usage de ces méthodes au sein de l’administration.
 
 
 ## Le programme EIG : une opportunité d'expérimentation pour l'administration
@@ -19,12 +19,12 @@ Le programme Entrepreneurs d’Intérêt Général fait la part belle à la circ
 
 ### Qu’est-ce que le programme EIG ? 
 
-Le programme Entrepreneurs d'Intérêt Général est porté par Etalab, service du premier ministre qui ouvre et valorise les données publiques. Il a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneurs d'intérêt général sont répartis en binômes ou trinômes pluridisciplinaires. Avec leurs mentors, ils ont 10 mois pour relever un défi d’amélioration du service public à l’aide du numérique et des données.
+Le programme Entrepreneur(e)s d'Intérêt Général est porté par Etalab, service du premier ministre qui ouvre et valorise les données publiques. Il a pour objectif de faire travailler ensemble des personnes extérieures à l'administration aux compétences numériques pointues et des agents publics engagés dans une démarche d'innovation. Les entrepreneur(e)s d'intérêt général sont réparti(e)s en binômes ou trinômes pluridisciplinaires. Avec leurs mentors, ils ont 10 mois pour relever un défi d’amélioration du service public à l’aide du numérique et des données.
 
 
 ### Faire de l’intelligence artificielle dans l’administration 
 
-Dans la quasi totalité des administrations, [les défis data science du programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html) sont une opportunité pour les administrations d'expérimenter des projets reposant sur l'exploitation de données. C’est pourquoi les entrepreneurs ont rencontré plusieurs difficultés : devoir expliquer leur métier, devoir exposer les limites et les prérequis pour appliquer des méthodes d'intelligence artificielle, travailler avec peu de données ou des données difficilement exploitables, ne pas disposer tout de suite d’un environnement de travail propice à la pratique de la data science (développement local et serveurs). Pour surmonter ces difficultés, les entrepreneurs ont organisé plusieurs [présentations de vulgarisation](https://speakerdeck.com/eig2018/vulgarisation-data-science) et mené des formations à destination des agents. Ils ont également rédigé plusieurs notes à destination de leur hiérarchie pour lever des freins ou saisir des opportunités. Grâce à cela ils ont pu implémenter des méthodes d’intelligence artificielle dont voici quelques cas d’usage.
+Dans la quasi totalité des administrations, [les défis data science du programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html) sont une opportunité pour les administrations d'expérimenter des projets reposant sur l'exploitation de données. C’est pourquoi les entrepreneur(e)s ont rencontré plusieurs difficultés : devoir expliquer leur métier, devoir exposer les limites et les prérequis pour appliquer des méthodes d'intelligence artificielle, travailler avec peu de données ou des données difficilement exploitables, ne pas disposer tout de suite d’un environnement de travail propice à la pratique de la data science (développement local et serveurs). Pour surmonter ces difficultés, les entrepreneur(e)s ont organisé plusieurs [présentations de vulgarisation](https://speakerdeck.com/eig2018/vulgarisation-data-science) et mené des formations à destination des agents. Ils ont également rédigé plusieurs notes à destination de leur hiérarchie pour lever des freins ou saisir des opportunités. Grâce à cela ils ont pu implémenter des méthodes d’intelligence artificielle dont voici quelques cas d’usage.
 
 ![3 hommes travaillent ensemble autour d'un ordinateur.](/img/blog/seminaire-2019/moteurs-regles.jpg) _[Gabriel Bastard](/communaute/2019/gabriel-bastard.html), [Quentin Loridant](/communaute/2019/quentin-loridant.html) et [Antoine Augusti](/communaute/2018/antoine-augusti.html) échangent sur les moteurs de règles_
 
@@ -78,6 +78,6 @@ Les défis data science EIG utilisent tous le langage Python et reposent sur des
 
 ### Etalab au coeur de la politique de la donnée
 
-Le programme Entrepreneurs d'Intérêt Général est coordonné par Etalab. Grâce au portefeuille important de défis data science, des collaborations entre EIG et administrations se nouent. Par ailleurs, les EIG interagissent avec et enrichissent les écosystèmes animés par Etalab tels que le Lab IA, le [pôle data science d'Etalab](https://www.etalab.gouv.fr/datasciences-et-intelligence-artificielle) ou les [appels à manifestation d'intérêts intelligence artificielle](https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes). Toutes ces interactions structurent une communauté _open data science_ d'acteurs publics engagés pour mettre en oeuvre des méthodes de data science au service des politiques publiques.
+Le programme Entrepreneur(e)s d'Intérêt Général est coordonné par Etalab. Grâce au portefeuille important de défis data science, des collaborations entre EIG et administrations se nouent. Par ailleurs, les EIG interagissent avec et enrichissent les écosystèmes animés par Etalab tels que le Lab IA, le [pôle data science d'Etalab](https://www.etalab.gouv.fr/datasciences-et-intelligence-artificielle) ou les [appels à manifestation d'intérêts intelligence artificielle](https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-15-nouveaux-projets-selectionnes). Toutes ces interactions structurent une communauté _open data science_ d'acteurs publics engagés pour mettre en oeuvre des méthodes de data science au service des politiques publiques.
 
 *PS : cet article est rédigé conjointement avec les datascientists de la promotion 3 du programme EIG. Merci à toutes et tous.*

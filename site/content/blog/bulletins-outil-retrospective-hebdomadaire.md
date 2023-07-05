@@ -11,7 +11,7 @@ date: 2019-07-03T00:00:00.000Z
 visible: true
 ---
 
-Accompagner une trentaine de professionnels du numérique au sein de 15 défis dans autant d'administrations réparties dans différents lieux : c'est la mission que relève au quotidien l'équipe du programme Entrepreneur(e)s d'Intérêt Général (EIG). Pluridisciplinaire, l'équipe appuie entrepreneurs d'intérêt général et mentors sur des aspects variés de leurs défis : stratégie, technique, gestion de projet, évaluation, communication, etc.
+Accompagner une trentaine de professionnels du numérique au sein de 15 défis dans autant d'administrations réparties dans différents lieux : c'est la mission que relève au quotidien l'équipe du programme Entrepreneur(e)s d'Intérêt Général (EIG). Pluridisciplinaire, l'équipe appuie entrepreneur(e)s d'intérêt général et mentors sur des aspects variés de leurs défis : stratégie, technique, gestion de projet, évaluation, communication, etc.
 
 Nous vous partageons un des moyens de communication que nous avons mis en place pour mener à bien notre mission d'accompagnement : **la rétrospective hebdomadaire**.
 

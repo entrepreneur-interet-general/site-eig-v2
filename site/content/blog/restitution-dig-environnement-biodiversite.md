@@ -10,7 +10,7 @@ title: "[Vidéo] Retour sur 4 défis de la promotion Designers d’Intérêt Gé
 date: 2021-01-06T00:00:00.000Z
 ---
 
-En juin 2019 a été lancé Designers d'Intérêt Général, un programme expérimental inspiré du programme Entrepreneurs d'Intérêt Général mais uniquement composé de designers (les deux programmes ont fusionné à la fin de la première promotion « DIG »). Quelques mois après la fin de leurs défis, quatre designers de la promotion nous livrent un retour d'expérience riche en apprentissages des défis portant sur l'environnement et la biodiversité. 
+En juin 2019 a été lancé Designers d'Intérêt Général, un programme expérimental inspiré du programme Entrepreneur(e)s d'Intérêt Général mais uniquement composé de designers (les deux programmes ont fusionné à la fin de la première promotion « DIG »). Quelques mois après la fin de leurs défis, quatre designers de la promotion nous livrent un retour d'expérience riche en apprentissages des défis portant sur l'environnement et la biodiversité. 
 La restitution s'est faite à l'occasion du Meetup Design Public #5, qui s'est tenu le 26 novembre 2020 pendant le [mois de l’innovation publique](https://www.modernisation.gouv.fr/mois-innovation-publique/).
 
 Les quatres défis présentés sont :

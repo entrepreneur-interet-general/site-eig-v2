@@ -24,13 +24,13 @@ Au sein de la [mission Etalab](https://etalab.gouv.fr/), deux EIG rejoindront l
 
 ### La problématique
 
-La promotion 3 du programme Entrepreneurs d’Intérêt Général réunit des professionnels aux compétences et connaissances diverses : développement, datascience, design… Les EIG font leurs premiers pas dans l’administration et découvrent un monde aux contraintes techniques et juridiques particulières. Par ailleurs, ils font à la fois partie d’un défi au sein d’une administration spécifique et d’un collectif d’une trentaine d’EIG, de mentors, de membres d’Etalab et de nombreux autres interlocuteurs.
+La promotion 3 du programme Entrepreneur(e)s d’Intérêt Général réunit des professionnels aux compétences et connaissances diverses : développement, datascience, design… Les EIG font leurs premiers pas dans l’administration et découvrent un monde aux contraintes techniques et juridiques particulières. Par ailleurs, ils font à la fois partie d’un défi au sein d’une administration spécifique et d’un collectif d’une trentaine d’EIG, de mentors, de membres d’Etalab et de nombreux autres interlocuteurs.
 
 Au sein d’[Etalab](http://www.etalab.gouv.fr/), une équipe pilote le programme EIG de A à Z et s’assure d’offrir aux équipes EIG+mentors toutes les ressources nécessaires pour relever les défis : gestion de projet, conseil juridique (open data, open source, etc.), méthodes de développement et d’analyse de donnée, standards d’hébergement et d’accessibilité, communication, etc.
 
 Pour réaliser ces nombreuses actions, souder la promotion EIG3, et assurer l’interface entre Etalab et les ministères d’accueil, Etalab recherche **deux “EIG Link” aux profils complémentaires**.
 
-## Le défi : accompagner les entrepreneurs d’intérêt général
+## Le défi : accompagner les entrepreneur(e)s d’intérêt général
 
 Deux EIG seront intégrés à l’équipe d’Etalab afin d’accompagner la promotion EIG3 :
 

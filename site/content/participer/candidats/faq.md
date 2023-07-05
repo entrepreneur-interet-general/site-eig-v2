@@ -121,7 +121,7 @@ questions:
       votre présentation d'exemples concrets.
   - title: Est-il possible de passer l'entretien à distance, par visioconférence ?
     desc: Oui, c'est tout à fait possible.
-  - title: Quelle est la différence entre Entrepreneurs d'Intérêt Général (EIG) et
+  - title: Quelle est la différence entre Entrepreneur(e)s d'Intérêt Général (EIG) et
       Designers d'Intérêt Général (DIG) ?
     desc: "Le programme DIG (Designers d’Intérêt Général) n’existe plus : il a
       fusionné avec le programme EIG (Entrepreneurs d’Intérêt Général) en 2020."

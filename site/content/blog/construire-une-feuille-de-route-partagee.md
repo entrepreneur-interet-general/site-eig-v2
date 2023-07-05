@@ -1,6 +1,6 @@
 ---
 author: Sophie Miljkovic, équipe EIG
-description: Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se sont rassemblés pour une session d’accompagnement bimensuelle au Liberté Living Lab.  L’occasion pour eux de construire la feuille de route de leurs défis et d’identifier les actions à renforcer et à clarifier.
+description: Jeudi 8 mars, les Entrepreneur(e)s d’Intérêt Général (EIG) se sont rassemblés pour une session d’accompagnement bimensuelle au Liberté Living Lab.  L’occasion pour eux de construire la feuille de route de leurs défis et d’identifier les actions à renforcer et à clarifier.
 image: img/lll-1-canvas.jpg
 categories:
 - Accompagnement
@@ -13,7 +13,7 @@ visible: true
 ![Dans une grande salle, les EIG de la promotion 2 sont assis à des pupitres individuels et discutent entre eux.](/img/blog/LLL-1-photo-groupe.jpg)
 _La promotion 2 des EIG au [Liberté Living Lab](https://www.liberte.paris/), qui a préparé cette session "feuille de route" (© Sophie Miljkovic)_
 
-Jeudi 8 mars, les Entrepreneurs d’Intérêt Général (EIG) se sont
+Jeudi 8 mars, les Entrepreneur(e)s d’Intérêt Général (EIG) se sont
 rassemblés pour une session d’accompagnement bimensuel au Liberté
 Living Lab.  L’occasion pour eux de construire la feuille de route de
 leurs défis et d’identifier les actions à renforcer et/ou à

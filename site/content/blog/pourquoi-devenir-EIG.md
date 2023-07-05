@@ -19,7 +19,7 @@ _Tiphaine Phe-Neau, Entrepreneure d'intérêt général pour le défi Préviseco
 
 Pour être honnête, il y a 1000 raisons pour s’engager dans le
 programme Entrepreneur(e)s d’Intérêt Général et si vous interrogez
-chacun des entrepreneurs vous obtiendrez chaque fois une réponse
+chacun des entrepreneur(e)s vous obtiendrez chaque fois une réponse
 différente. Dans cet article, je vais vous évoquer les raisons qui
 m’ont poussée à me lancer ou tout du moins mon cheminement de pensée.
 
@@ -70,7 +70,7 @@ qu’en étant sapeur-pompier, je peux améliorer le quotidien du citoyen.
 ### Mais en quoi le programme EIG œuvre pour l’Intérêt Général ?
 
 ![Tiphaine et Guillaume, discutent avec une personne qui est de dos](/img/blog/Tiphaine-Guillaume.jpg)
-_Tiphaine et Guillaume, Entrepreneurs d'intérêt général pour le défi Prévisecours (© Liberté Living Lab)_
+_Tiphaine et Guillaume, Entrepreneur(e)s d'intérêt général pour le défi Prévisecours (© Liberté Living Lab)_
 
 Je travaille avec Guillaume Lancrenon sur le [défi
 Prévisecours](https://entrepreneur-interet-general.etalab.gouv.fr/defi/2017/09/26/previsecours/). Guillaume

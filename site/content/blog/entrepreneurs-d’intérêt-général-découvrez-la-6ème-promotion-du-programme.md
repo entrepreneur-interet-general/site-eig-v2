@@ -1,10 +1,10 @@
 ---
-title: "Entrepreneurs d’intérêt général : découvrez la 6ème promotion du programme !"
+title: "Entrepreneur(e)s d’intérêt général : découvrez la 6ème promotion du programme !"
 author: Coraline Gillard
 date: 2022-09-01T11:18:38.579Z
 description: Cinq mois après le lancement de son appel à candidatures, 300
   dossiers reçus et une centaine d’entretiens plus tard, le programme
-  Entrepreneurs d’intérêt général est fier de vous présenter la composition de
+  Entrepreneur(e)s d’intérêt général est fier de vous présenter la composition de
   sa sixième promotion.
 image: img/annonce-promo6.jpg
 categories:
@@ -12,10 +12,10 @@ categories:
   - Collectif
   - Écosystème
 related:
-  - "Entrepreneurs d’intérêt général : lauréats et défis de la 5ème promotion"
+  - "Entrepreneur(e)s d’intérêt général : lauréats et défis de la 5ème promotion"
 visible: true
 ---
-**Développeuses, développeurs, data scientists, data engineers et designers… ils et elles seront 34 à rejoindre les rangs de l’administration française en septembre prochain**. 34 « Entrepreneurs d’intérêt général », issus des secteurs public ou privé, jeunes et moins jeunes, aux expertises diverses dans la tech et le design. Derrière ces horizons pluriels, **un désir commun de s’engager pour l’intérêt général et d’œuvrer pour la transformation numérique des administrations.**
+**Développeuses, développeurs, data scientists, data engineers et designers… ils et elles seront 34 à rejoindre les rangs de l’administration française en septembre prochain**. 34 « Entrepreneur(e)s d’intérêt général », issus des secteurs public ou privé, jeunes et moins jeunes, aux expertises diverses dans la tech et le design. Derrière ces horizons pluriels, **un désir commun de s’engager pour l’intérêt général et d’œuvrer pour la transformation numérique des administrations.**
 
 ![Découvrez la 6ème promotion du programme ! ](img/annonce-promo6.jpg)
 
@@ -169,7 +169,7 @@ EIG lauréats :
 
 * **300 candidatures** ont été reçues dans le cadre de l’appel à candidatures du 7 mars au 19 avril 2022 ;
 * **103 candidates et candidats ont été présélectionné(e)s et 88 ont été auditionné(e)s** lors des jurys qui se sont tenus les 7, 8, 9, 10 et 13 juin 2022 puis du 22 juin au 7 juillet 2022 ;
-* **34 Entrepreneurs d’intérêt général, dont 3 coaches EIG** qui épauleront l’équipe d’animation du programme, ont été sélectionné(e)s à l’issue des jurys
+* **34 Entrepreneur(e)s d’intérêt général, dont 3 coaches EIG** qui épauleront l’équipe d’animation du programme, ont été sélectionné(e)s à l’issue des jurys
 * **30 expertes et experts** réuni(e)s pour le jury des candidats
 
 **Profils des EIG**

@@ -4,7 +4,7 @@ layout: admins
 open: false
 head:
   desc: Parce que nous croyons qu'une transformation durable se fait de
-    l'intérieur... le programme Entrepreneurs d'intérêt général vous aide à
+    l'intérieur... le programme Entrepreneur(e)s d'intérêt général vous aide à
     intégrer des outils et des talents dans vos administrations pour faire
     évoluer la qualité du service public.
   title: Administrations
