@@ -136,9 +136,8 @@ steps: >-
 
   ![]()
 wait:
-  title: |-
-    L’appel à candidatures pour notre
-    promotion 6 est désormais fermé.
+  title: L'appel à candidatures de la promotion 6 du programme Entrepreneur(e)s
+    d'Intérêt Général est clos.
   desc: Cliquer [ICI](https://eig.etalab.gouv.fr/defis/) pour découvrir les défis
     de la promotion 5
 ---
