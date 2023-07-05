@@ -70,63 +70,10 @@ program: >-
   * Animation d’une communauté d’entraide entre alumni et EIG
 
   * Mentorat par des expert(e)s du numérique public
-criteria:
-  title: "5 critères de sélection "
-  desc: >-
-    Chaque année, un appel à projets spécifique est ouvert à l’ensemble des
-    administrations publiques désireuses de proposer un projet numérique
-    innovant afin de pouvoir bénéficier d’une équipe d’EIG.
-
-
-    Pour être sélectionnés, les projets doivent répondre aux cinq critères suivants :
-  list:
-    - num: "1"
-      name: Besoin
-      desc: Un besoin clair, à fort impact, porté à un haut niveau hiérarchique par
-        l’administration d’accueil.
-    - num: "2"
-      name: Approche
-      desc: Caractère entrepreneurial du projet ; il ouvre un champ d’exploration des
-        usages et de la technologie tout en ayant une problématique circonscrite
-        et des profils du numérique cohérents
-    - num: "3"
-      name: Engagement
-      desc: Motivation pour participer au programme, ouvrir le terrain
-        d’expérimentation aux talents du numérique, et leur offrir de
-        l’autonomie.
-    - num: "4"
-      name: Transformation
-      desc: De fortes capacités de transformation numérique de l’administration.
-    - num: "5"
-      name: Ouverture
-      desc: Une démarche d’innovation ouverte (collaboration, co-construction,
-        gouvernance) et de partage de communs numériques (ouverture des données
-        et des codes-sources, mutualisation et réplication des productions).
-steps: >-
-  ## Les étapes clés de la sélection
-
-
-  Pour rejoindre la prochaine promotion du programme vous êtes invités à répondre à notre sixième appel à projets - ouvert jusqu’au 18/03/2022. 
-
-
-  Le processus de sélection se fait en **3 étapes :** 
-
-
-  ![](img/steps2.svg)
-
-
-  1. **Vous postulez** en répondant à l'appel à projets. 
-
-  2. **Si votre projet est sélectionné, nous réunissons une équipe** de 2 ou 3 EIG pour relever le défi, en vous associant au processus de recrutement 
-
-  3. **Vous expérimentez** de nouvelles solutions avec votre équipe d'EIG et le soutien du programme
-
-
-  ![]()
 wait:
   title: |-
-    L’appel à candidatures pour notre
-    promotion 6 est désormais fermé.
-  desc: Cliquer [ICI](https://eig.etalab.gouv.fr/defis/) pour découvrir les défis
-    de la promotion 5
+    L'appel à candidatures de la promotion 6 
+    du programme Entrepreneur(e)s d'Intérêt Général est clos.
+  desc: Découvrez les [101 défis relevés](https://eig.etalab.gouv.fr/defis/) par les talents du numérique 
+    dans les administrations lauréates du programme.
 ---
