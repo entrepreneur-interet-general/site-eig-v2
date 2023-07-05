@@ -139,7 +139,6 @@ wait:
   title: |-
     L’appel à candidatures pour notre
     promotion 6 est désormais fermé.
-  desc: Découvrez les [101 défis d'intérêt
-    général](https://eig.etalab.gouv.fr/defis/) relevés par les talents du
+  desc: Découvrez les 101 défis d'intérêt général relevés par les talents du
     numérique dans les administrations lauréates du programme.
 ---
