@@ -35,7 +35,7 @@ removePathAccents = true
     identifier = "impact"
     weight = 2
   [[menu.nav]]
-    name = "Participants"
+    name = "Participant(e)s"
     url = "/participants"
     identifier = "participants"
     weight = 3
@@ -47,7 +47,7 @@ removePathAccents = true
     weight = 1
 
   [[menu.nav]]
-    name = "Agents publics"
+    name = "Agent(e)s de service public"
     url = "/agents"
     parent = "participants"
     weight = 2
