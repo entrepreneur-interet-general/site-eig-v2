@@ -16,6 +16,8 @@ related:
     culture"
 visible: true
 ---
+![Quatre EIG testent un scénario d'évacuation de bâtiments publics à l'occasion d'une expédition apprenante à la Cité des Sciences](img/20230525_102318-1-2-.png "Photographie de 4 EIG")
+
 Impulsé par le président François Hollande et présenté lors du sommet mondial du [Partenariat pour un Gouvernement Ouvert](https://www.opengovpartnership.org/events/ogp-global-summit-2016-paris/) en 2016, le programme Entrepreneur(e)s d’intérêt général (EIG) tire son inspiration du programme [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) (PIF), créé outre-Atlantique en 2012 sous la présidence de Barack Obama.
 
 Le programme PIF encourage la culture d’innovation entrepreneuriale au sein du service public. Pour ce faire, il associe les meilleur(e)s innovateurs et innovatrices du secteur privé, des organisations à but non lucratif et des universités aux meilleur(e)s innovateurs et innovatrices du gouvernement fédéral. Il se concentre sur la production de résultats significatifs en quelques mois, en s’emparant de techniques issues de l’industrie, telles que le *Lean Startup* et le *Design Thinking*.
