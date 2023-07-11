@@ -6,10 +6,12 @@ description: Entreprendre, c’est avant tout expérimenter. Mais expérimenter 
   suffit pas. L’objectif n’est pas de tester une idée, mais de la faire germer,
   la faire croître - et souvent la renouveler. Pour développer cette posture
   entrepreneuriale, les EIG multiplient les apprentissages latéraux et dépassent
-  leur cœur de métier d'origine.
+  leur cœur de métier.
 image: img/20230525_102318-1-2-.png
 categories:
   - Accompagnement
+  - Collectif
+  - Témoignage
 related:
   - 5 leviers pour innover et entreprendre dans la fonction publique
   - "Innover dans le service public : changer les pratiques, transformer la
