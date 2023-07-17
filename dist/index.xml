@@ -6,7 +6,7 @@
     <description>Recent content in Page d&#39;accueil on Entrepreneur(e)s d&#39;intérêt général</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Wed, 19 Apr 2023 07:37:55 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jul 2023 09:28:07 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Antoine San Segundo</title>
       <link>/personnes/antoine-san-segundo/</link>
@@ -62,6 +62,16 @@ En tant que coach produit, il sʼattache à faciliter le dépassement de fonctio
       
       <guid>/personnes/jakub-voznica/</guid>
       <description>D’origine tchèque et passionné par Astérix et Obélix, je suis arrivé en France en 2008, pour suivre des études au lycée Carnot à Dijon qui accueille une section tchèque. Après le lycée, j’ai décidé de rester en France pour faire de longues études à l’interface de plusieurs disciplines dont la data science, la santé et les mathématiques. Après l’ENS Paris-Saclay, j’ai fait une thèse en data science et santé publique à l’Institut Pasteur où j’ai développé la première méthode d’apprentissage profond en épidémiologie moléculaire et ensuite en évolution comparative.</description>
+    </item>
+    
+    <item>
+      <title>Qu’est-ce qu’entreprendre pour le service public ?</title>
+      <link>/blog/quest-ce-quentreprendre-pour-le-service-public/</link>
+      <pubDate>Tue, 11 Jul 2023 09:28:07 +0000</pubDate>
+      
+      <guid>/blog/quest-ce-quentreprendre-pour-le-service-public/</guid>
+      <description>Impulsé par le président François Hollande et présenté lors du sommet mondial du Partenariat pour un Gouvernement Ouvert en 2016, le programme Entrepreneur(e)s d’intérêt général (EIG) tire son inspiration du programme Presidential Innovation Fellows (PIF), créé outre-Atlantique en 2012 sous la présidence de Barack Obama.
+Le programme PIF encourage la culture d’innovation entrepreneuriale au sein du service public. Pour ce faire, il associe les meilleur(e)s innovateurs et innovatrices du secteur privé, des organisations à but non lucratif et des universités aux meilleur(e)s innovateurs et innovatrices du gouvernement fédéral.</description>
     </item>
     
     <item>
@@ -1539,7 +1549,7 @@ Le défi aujourd’hui La problématique identifiée L’impact des nuisances es
       <pubDate>Thu, 01 Jan 1970 00:33:42 +0000</pubDate>
       
       <guid>/defis/magellan/</guid>
-      <description>Le défi à relever L&amp;rsquo;administration porteuse La DINUM, le service de public de demain avec le numérique La Direction interministérielle du numérique (DINUM) accompagne les ministères dans leur transformation numérique, conseille le gouvernement et développe des services et ressources partagées. Elle pilote, avec l’appui des ministères, le programme Tech.gouv d’accélération de la transformation numérique du service public. Créée en 2019, la DINUM a pris la suite de la Direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC).</description>
+      <description>L&amp;rsquo;administration porteuse La DINUM, le service de public de demain avec le numérique La Direction interministérielle du numérique (DINUM) accompagne les ministères dans leur transformation numérique, conseille le gouvernement et développe des services et ressources partagées. Elle pilote, avec l’appui des ministères, le programme Tech.gouv d’accélération de la transformation numérique du service public. Créée en 2019, la DINUM a pris la suite de la Direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC).</description>
     </item>
     
     <item>
@@ -2702,7 +2712,7 @@ Entré dans la Police Nationale il y a trente ans, il a dirigé plusieurs servic
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/donnees-personnelles/</guid>
-      <description>Etalab s&amp;rsquo;engage à ce que la collecte et le traitement de données personnelles effectuées sur eig.etalab.gouv.fr soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
+      <description>La Direction interministérielle du numérique s&amp;rsquo;engage à ce que la collecte et le traitement de données personnelles effectuées sur eig.etalab.gouv.fr soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 Exercer vos droits Pour toute information ou exercice de vos droits Informatique et Libertés sur les traitements de données personnelles gérés par Etalab, vous pouvez contacter le délégué à la protection des données (DPD) des services du Premier Ministre :</description>
     </item>
     
@@ -4290,14 +4300,17 @@ Ces expériences m’ont permis et me permettent encore :
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cgu/</guid>
-      <description>Éditeur Ce site est édité par l&amp;rsquo;équipe Entrepreneur(e)s d&amp;rsquo;intérêt général, programme d’innovation numérique des Services du Premier Ministre porté la Direction interministérielle du numérique.
-DINUM
+      <description>Éditeur Ce site est édité par l&amp;rsquo;équipe Entrepreneur(e)s d&amp;rsquo;intérêt général, programme d’innovation numérique des Services de la Première ministre.
+Services de la Première ministre
+Direction interministérielle du numérique
+Département Incubateur des services numériques
+Programme Entrepreneur(e)s d&amp;rsquo;intérêt général
 20 avenue de Ségur
 75007 Paris
 Tel. accueil : 01.71.21.01.70
 SIRET : 12000101100010 (secrétariat général du gouvernement)
 SIREN : 120 001 011
-Directeur de publication Pour les sujets relevant de la DINUM (transformation numérique de l’État) : Stéphanie Schaer, directrice interministérielle du numérique
+Directrice de publication Stéphanie Schaer, directrice interministérielle du numérique
 Conception et gestion du site Ce site est conçu et développé par l&amp;rsquo;équipe du programme Entrepreneur(e)s d&amp;rsquo;intérêt général.</description>
     </item>
     
@@ -4483,7 +4496,7 @@ Issu d’une formation à l’entrecroisement de la psychologie et du génie inf
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>En cliquant sur Envoyer, vous acceptez que le programme Entrepreneur(e)s d&amp;rsquo;intérêt général conserve mes données personnelles transmises via ce formulaire. Ces données seront conservées uniquement dans le but de traiter ma demande, soit pour une durée 12 mois. Voir notre politique de confidentialité.</description>
+      <description>En cliquant sur Envoyer, vous acceptez que le programme Entrepreneur(e)s d&amp;rsquo;intérêt général conserve vos données personnelles transmises via ce formulaire. Ces données seront conservées uniquement dans le but de traiter ma demande, soit pour une durée 12 mois. Voir notre politique de confidentialité.</description>
     </item>
     
     <item>
