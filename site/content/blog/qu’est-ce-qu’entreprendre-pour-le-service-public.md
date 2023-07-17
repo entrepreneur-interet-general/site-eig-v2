@@ -18,7 +18,7 @@ related:
     culture"
 visible: true
 ---
-![Quatre EIG testent un scénario d’évacuation de bâtiments publics à l’occasion d’une expédition apprenante à la Cité des Sciences](img/20230525_102318-1-2-.png "Photographie de quatre EIG")
+![Quatre EIG testent un scénario d’évacuation de bâtiments publics à l’occasion d’une expédition apprenante à la Cité des Sciences](/img/20230525_102318-1-2-.png "Photographie de quatre EIG")
 
 Impulsé par le président François Hollande et présenté lors du sommet mondial du [Partenariat pour un Gouvernement Ouvert](https://www.opengovpartnership.org/events/ogp-global-summit-2016-paris/) en 2016, le programme Entrepreneur(e)s d’intérêt général (EIG) tire son inspiration du programme [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) (PIF), créé outre-Atlantique en 2012 sous la présidence de Barack Obama.
 
