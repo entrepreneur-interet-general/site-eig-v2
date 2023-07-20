@@ -1,5 +1,5 @@
 ---
-title: Regards sur l'innovation publique (2ème édition)
+title: Les Regards sur l'innovation publique (2ème édition) en vidéo
 author: Thomas Parisot
 date: 2023-07-20T07:51:00.555Z
 description: La 6ème promotion EIG présentait le 29 juin 2023 ses avancées et
