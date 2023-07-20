@@ -1,11 +1,12 @@
 ---
-title: Regards sur l'innovation publique (2ème édition)
+title: Les Regards sur l'innovation publique (2ème édition) en vidéo
 author: Thomas Parisot
 date: 2023-07-20T07:51:00.555Z
 description: La 6ème promotion EIG présentait le 29 juin 2023 ses avancées et
   ses apprentissages, devant un public nombreux, attaché aux valeurs du
-  numérique public. Découvrez la vidéo de la cérémonie de clôture !
-image: img/ceremonie-eig6-table-ronde-alumni.jpg
+  numérique public. Revivez ce moment en regardant la captation vidéo de la
+  cérémonie de clôture !
+image: img/play-video-eig6.jpg
 categories:
   - Collectif
   - Écosystème
