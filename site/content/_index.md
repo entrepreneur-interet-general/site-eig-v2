@@ -38,11 +38,11 @@ agents:
     - Fabrice Bélorgey
 join:
   image: img/eig-6-ceremonie-photo-promo.jpg
-  sub: Cérémonie de clôture de la promotion EIG 6 le 29 juin 2023
-  title: Regard(s) sur l'innovation publique
+  sub: Cérémonie de clôture de la promotion EIG 6
+  title: Regards sur l'innovation publique
   btn:
-    title: Je m'inscris
-    url: https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-6eme-promotion-634720745837
+    title: Regarder la vidéo
+    url: https://www.dailymotion.com/video/x8mglor
     external: true
 medias:
   desc: Parcourez les articles, tribunes, posts de blog sur le programme
