@@ -13,7 +13,7 @@ Département Incubateur des services numériques\
 Programme Entrepreneur(e)s d'intérêt général\
 20 avenue de Ségur\
 75007 Paris\
-Tel. accueil : 01.71.21.01.70
+Tel. accueil : +33 1 71 21 01 70
 
 SIRET : 12000101100010 (secrétariat général du gouvernement)\
 SIREN : 120 001 011
