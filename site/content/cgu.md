@@ -36,7 +36,7 @@ Tout site public ou privé est autorisé à établir, sans autorisation préalab
 
 Sauf mention de propriété intellectuelle détenue par des tiers (notamment un crédit sur certaines images), les contenus de ce site sont proposés sous licence ouverte.
 
-La mise en place de liens vers nos contenus et documents est cependant est à privilégier par rapport à la reproduction sur un site tiers. La mention explicite du site source design.numerique.gouv.fr est recommandée.
+La mise en place de liens vers nos contenus et documents est cependant est à privilégier par rapport à la reproduction sur un site tiers. La mention explicite du site source eig.etalab.gouv.fr. est recommandée.
 
 ## Hébergement
 
