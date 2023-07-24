@@ -13,7 +13,7 @@ Département Incubateur des services numériques\
 Programme Entrepreneur(e)s d'intérêt général\
 20 avenue de Ségur\
 75007 Paris\
-Tel. accueil : 01.71.21.01.70
+Tel. accueil : +33 1 71 21 01 70
 
 SIRET : 12000101100010 (secrétariat général du gouvernement)\
 SIREN : 120 001 011
@@ -36,7 +36,7 @@ Tout site public ou privé est autorisé à établir, sans autorisation préalab
 
 Sauf mention de propriété intellectuelle détenue par des tiers (notamment un crédit sur certaines images), les contenus de ce site sont proposés sous licence ouverte.
 
-La mise en place de liens vers nos contenus et documents est cependant est à privilégier par rapport à la reproduction sur un site tiers. La mention explicite du site source design.numerique.gouv.fr est recommandée.
+La mise en place de liens vers nos contenus et documents est cependant est à privilégier par rapport à la reproduction sur un site tiers. La mention explicite du site source eig.etalab.gouv.fr. est recommandée.
 
 ## Hébergement
 
