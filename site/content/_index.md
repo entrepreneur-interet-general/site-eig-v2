@@ -56,7 +56,7 @@ medias:
     - image: img/lusine-digitale.png
       link: https://www.usine-digitale.fr/article/la-strategie-bien-rodee-de-l-etat-pour-recruter-des-professionnels-du-numerique.N1776667
       title: L'Usine Digitale
-    - link: https://acteurspublics.fr/articles/corine-waroquiers-le-programme-entrepreneurs-dinteret-general-est-de-plus-en-plus-populaire-aupres-des-administrations
+    - link: https://acteurspublics.fr/articles/ishan-bhojwani-la-refonte-des-entrepreneurs-dinteret-general-repond-a-un-manque-de-competences-de-haut-niveau
       image: img/acteurs-publics.jpg
       title: Acteurs publics
     - title: BFM Buisness
