@@ -12,6 +12,10 @@ agents:
     - Christophe Cuq
     - TEST - Adeline Celier
 ---
+**29 septembre 2023**
+
+[Ishan Bhojwani : “La refonte des « Entrepreneurs d’intérêt général » répond à un manque de compétences de pilotage”](https://acteurspublics.fr/articles/ishan-bhojwani-la-refonte-des-entrepreneurs-dinteret-general-repond-a-un-manque-de-competences-de-haut-niveau)
+
 **11 mai 2023**
 
 [Le numérique, un exemple à suivre pour l’embarquement des agents ?](https://acteurspublics.fr/articles/le-numerique-un-exemple-a-suivre-pour-lembarquement-des-agents)
